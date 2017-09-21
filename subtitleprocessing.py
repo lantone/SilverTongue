@@ -9,14 +9,14 @@ def vtt_to_srt(input):
     outlines= []
     with codecs.open(input,'r', 'utf-8') as f:
         lines = f.readlines()
-    index = 1
+    index = 0
     things_to_skip = ['WEBVTT',
                       'Kind:',
                       'Language:',
                       'Style:',
-                      'Translator:',
-                      'Reviewer:',
-                      '00:00:00.000',
+#                      'Translator:',
+#                      'Reviewer:',
+#                      '00:00:00.000',
                       '::',
                       ' }',
                       '##']
@@ -199,7 +199,8 @@ def get_speechace_sub_list(subtitles, indices_to_split):
     subs_for_speechace = []
     for i in indices_to_split:
         # get text and remove newline characters
-        text = ' '.join(str(i.content.encode('utf-8').replace('\n',' ')) for i in subtitles[start_chunk:i])
+#        text = ' '.join(str(i.content.encode('utf-8').replace('\n',' ')) for i in subtitles[start_chunk:i])
+        text = ' '.join(str(i.content.replace('\n',' ')) for i in subtitles[start_chunk:i])
         # remove punctuation
         text = ' '.join(word.strip(string.punctuation) for word in text.split())
         start_chunk = i
