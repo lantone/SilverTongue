@@ -1,0 +1,90 @@
+<html>
+  <head>
+  </head>
+  <body>
+
+    <iframe title="YouTube video player" class="youtube-player" type="text/html" 
+	    width="640" height="390" src="http://www.youtube.com/embed/{{video_id}}?cc_load_policy=1"
+	    frameborder="0">
+    </iframe>
+
+    {% if not ready %}
+    <h1>Patience is a virtue</h1> 
+    SilverTongue is hard at work processing your
+    input.  Refresh this page periodically to check whether the results are
+    ready.  In the meantime, you can revisit your awesome video above and read
+    up on the metrics being used to analyze your performance below.  {% else %}
+    <h1>Congratulations!</h1>
+    Your results have finished processing!  Check out your scores below!
+    {% endif %}
+
+    <h1><u>Confidence</u></h1>
+    <h2>Filler word rate</h2>
+    {% if not ready %}
+    <img src="{{ url_for('static', filename = '') }}references/filler_word_rate.png" width="640"/><br>
+    {% else %}
+    <img src="{{ url_for('static', filename = '') }}{{session}}/filler_word_rate.png" width="640"/><br>
+    {% endif %}
+<!--    This metric measures how often you say any of the following:
+    'so', 'like', 'um', 'okay', and 'just'.  Sure, there are legitimate uses for all
+    those words, and in TED talks there's an average of around one of them every
+    minute.  But in general these words are used to fill in gaps when the
+    speaker doesn't know what they want to say next. -->
+    <h2>Repeated word rate</h2>
+    {% if not ready %}
+    <img src="{{ url_for('static', filename = '') }}references/repeated_word_rate.png" width="640"/><br>
+    {% else %}
+    <img src="{{ url_for('static', filename = '') }}{{session}}/repeated_word_rate.png" width="640"/><br>
+    {% endif %}
+<!--    Similar to using filler words, it's easy to get tripped up in the middle of
+    a statement not knowing where you're headed and repeat a word while you sort
+    out your thoughts.  TED speakers have this habit pretty well eradicated. -->
+    <h1><u>Pacing</u></h1>
+    <h2>Average words per minute</h2>
+    {% if not ready %}
+    <img src="{{ url_for('static', filename = '') }}references/avg_wpm.png" width="640"/><br>
+    {% else %}
+    <img src="{{ url_for('static', filename = '') }}{{session}}/avg_wpm.png" width="640"/><br>
+    {% endif %}
+<!--    Finding the optimal speaking speed is a balance between clarity, energy, and
+    information transfer.  Speak too quickly and people start to lose you.
+    Speak too slowly and people start to get bored.  TED speakers tend to speak
+    at about 150 words per minute, but there's a wide range of speaking rates
+    represented in TED talk, so don't worry if you're a bit off that mark. -->
+    <h2>Speed variation</h2>
+    {% if not ready %}
+    <img src="{{ url_for('static', filename = '') }}references/wpm_variation.png" width="640"/><br>
+    {% else %}
+    <img src="{{ url_for('static', filename = '') }}{{session}}/wpm_variation.png" width="640"/><br>
+    {% endif %}
+<!--    Barreling through your talk at a constant speed risks leaving the audience
+    shell-shocked.  To keep your audience engaged, you want to speak more
+    quickly at some point to raise the energy level, but slow down to emphasize
+    an important point.  TED speakers tend to vary their speed by about 20% on
+    average. -->
+    <h1><u>Dynamism</u></h1>
+    <h2>Pitch variation</h2>
+    {% if not ready %}
+    <img src="{{ url_for('static', filename = '') }}references/pitch_variation.png" width="640"/><br>
+    {% else %}
+    <img src="{{ url_for('static', filename = '') }}{{session}}/pitch_variation.png" width="640"/><br>
+    {% endif %}
+<!--    A monotone presentation can be painful to watch, but a wildly excited
+    speaker can be equally off-putting.  The sweet spot in pitch variation for
+    TED speakers is around 25%. -->
+    <h1><u>Clarity</u></h1>
+    <h2>Average word clarity score</h2>
+    {% if not ready %}
+    <img src="{{ url_for('static', filename = '') }}references/average_word_score.png" width="640"/><br>
+    {% else %}
+    <img src="{{ url_for('static', filename = '') }}{{session}}/average_word_score.png" width="640"/><br>
+    {% endif %}
+<!--    This metric, powered by SpeechAce, listens to the individual sounds of each
+    word the speaker says and compares them to the accepted pronunciation of
+    that word.  Consequently, this score will also be reduced when the speaker
+    says 'um' or something similar just before a word.  Even TED speakers only
+    reach a 90% clarity score on average, so don't worry about getting your number
+    up to 100%.  That would probably require you to speak much more slowly than
+    is optimal.  Find a balance that works for you! -->
+  </body>
+</html>
