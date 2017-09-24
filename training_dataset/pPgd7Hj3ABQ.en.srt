@@ -1,0 +1,1351 @@
+0
+00:00:12,682 --> 00:00:15,721
+I want to tell you
+about the future of money.
+
+1
+00:00:16,467 --> 00:00:19,064
+Let's start with a story
+about this culture
+
+2
+00:00:19,088 --> 00:00:23,276
+that lived in Micronesia
+in the early 1900s, called the Yap.
+
+3
+00:00:23,300 --> 00:00:25,083
+Now, I want to tell you about the Yap
+
+4
+00:00:25,107 --> 00:00:27,973
+because their form of money
+is really interesting.
+
+5
+00:00:27,997 --> 00:00:31,635
+They use these limestone discs
+called Rai stones.
+
+6
+00:00:31,659 --> 00:00:35,386
+Now, the Yap don't actually
+move these Rai stones around
+
+7
+00:00:35,410 --> 00:00:38,207
+or exchange them the way
+we do with our coins,
+
+8
+00:00:38,231 --> 00:00:41,696
+because Rai stones can get
+to be pretty massive.
+
+9
+00:00:41,720 --> 00:00:46,048
+The largest is about four tons
+and 12 feet across.
+
+10
+00:00:46,072 --> 00:00:51,153
+So the Yap just keep track
+of who owns part of what stone.
+
+11
+00:00:52,051 --> 00:00:54,138
+There's a story about these sailors
+
+12
+00:00:54,162 --> 00:00:56,818
+that were transporting a stone
+across the ocean
+
+13
+00:00:56,842 --> 00:01:00,668
+when they ran into some trouble
+and the stone actually fell in.
+
+14
+00:01:01,574 --> 00:01:03,896
+The sailors got back to the main island
+
+15
+00:01:03,920 --> 00:01:06,177
+and they told everyone what had happened.
+
+16
+00:01:06,201 --> 00:01:08,950
+And everyone decided that, actually, yes,
+
+17
+00:01:08,974 --> 00:01:13,348
+the sailors had the stone
+and -- why not? -- it still counted.
+
+18
+00:01:13,372 --> 00:01:15,566
+Even though it was
+at the bottom of the ocean,
+
+19
+00:01:15,590 --> 00:01:17,745
+it was still part of the Yap economy.
+
+20
+00:01:18,573 --> 00:01:21,742
+You might think that this
+was just a small culture
+
+21
+00:01:21,766 --> 00:01:23,134
+a hundred years ago.
+
+22
+00:01:23,158 --> 00:01:26,306
+But things like this happen
+in the Western world as well,
+
+23
+00:01:26,330 --> 00:01:29,689
+and the Yap actually still use
+a form of these stones.
+
+24
+00:01:30,360 --> 00:01:34,788
+In 1932, the Bank of France
+asked the United States
+
+25
+00:01:34,812 --> 00:01:38,376
+to convert their holdings
+from dollars into gold.
+
+26
+00:01:38,749 --> 00:01:42,094
+But it was too inconvenient
+to think about actually shipping
+
+27
+00:01:42,118 --> 00:01:44,047
+all of that gold over to Europe.
+
+28
+00:01:44,071 --> 00:01:47,904
+So instead, someone went to where
+that gold was being stored
+
+29
+00:01:47,928 --> 00:01:51,982
+and they just labeled it
+as belonging to France now.
+
+30
+00:01:52,006 --> 00:01:55,474
+And everyone agreed
+that France owned the gold.
+
+31
+00:01:55,843 --> 00:01:57,825
+It's just like those Rai stones.
+
+32
+00:01:58,517 --> 00:02:00,838
+The point I want to make
+with these two examples
+
+33
+00:02:00,862 --> 00:02:04,250
+is that there's nothing
+inherently valuable
+
+34
+00:02:04,274 --> 00:02:07,635
+about a dollar or a stone or a coin.
+
+35
+00:02:08,090 --> 00:02:10,782
+The only reason these things
+have any value
+
+36
+00:02:10,806 --> 00:02:13,374
+is because we've all decided they should.
+
+37
+00:02:13,398 --> 00:02:15,227
+And because we've decided that,
+
+38
+00:02:15,251 --> 00:02:16,420
+they do.
+
+39
+00:02:17,223 --> 00:02:21,363
+Money is about the exchanges
+and the transactions
+
+40
+00:02:21,387 --> 00:02:23,448
+that we have with each other.
+
+41
+00:02:24,042 --> 00:02:26,850
+Money isn't anything objective.
+
+42
+00:02:26,874 --> 00:02:31,271
+It's about a collective story
+that we tell each other about value.
+
+43
+00:02:32,101 --> 00:02:33,482
+A collective fiction.
+
+44
+00:02:34,170 --> 00:02:37,053
+And that's a really powerful concept.
+
+45
+00:02:38,059 --> 00:02:39,526
+In the past two decades,
+
+46
+00:02:39,550 --> 00:02:41,819
+we've begun to use digital money.
+
+47
+00:02:41,843 --> 00:02:44,516
+So I get paid via direct deposit,
+
+48
+00:02:44,540 --> 00:02:47,023
+I pay my rent via bank transfer,
+
+49
+00:02:47,047 --> 00:02:48,991
+I pay my taxes online.
+
+50
+00:02:49,015 --> 00:02:50,167
+And every month,
+
+51
+00:02:50,191 --> 00:02:52,956
+a small amount of money
+is deducted from my paycheck
+
+52
+00:02:52,980 --> 00:02:55,947
+and invested in mutual funds
+in my retirement account.
+
+53
+00:02:57,120 --> 00:02:58,629
+All of these interactions
+
+54
+00:02:58,653 --> 00:03:02,711
+are literally just changing
+1's and 0's on computers.
+
+55
+00:03:02,735 --> 00:03:07,109
+There's not even anything physical,
+like a stone or a coin.
+
+56
+00:03:08,320 --> 00:03:11,603
+Digital money makes it
+so that I can pay someone around the world
+
+57
+00:03:11,627 --> 00:03:13,008
+in seconds.
+
+58
+00:03:13,901 --> 00:03:15,492
+Now when this works,
+
+59
+00:03:15,516 --> 00:03:20,361
+it's because there are large institutions
+underwriting every 1 or 0
+
+60
+00:03:20,385 --> 00:03:22,314
+that changes on a computer.
+
+61
+00:03:22,338 --> 00:03:23,503
+And when it doesn't,
+
+62
+00:03:23,527 --> 00:03:25,925
+it's often the fault
+of those large institutions.
+
+63
+00:03:25,949 --> 00:03:28,892
+Or at least, it's up to them
+to fix the problem.
+
+64
+00:03:28,916 --> 00:03:30,476
+And a lot of times, they don't.
+
+65
+00:03:30,862 --> 00:03:33,031
+There's a lot of friction in the system.
+
+66
+00:03:33,938 --> 00:03:36,813
+How long did it take
+the US credit card companies
+
+67
+00:03:36,837 --> 00:03:38,413
+to implement chip and pin?
+
+68
+00:03:38,908 --> 00:03:42,014
+Half my credit cards
+still don't work in Europe.
+
+69
+00:03:42,739 --> 00:03:43,936
+That's friction.
+
+70
+00:03:44,580 --> 00:03:48,472
+Transferring money across borders
+and across currencies
+
+71
+00:03:48,496 --> 00:03:50,140
+is really expensive:
+
+72
+00:03:50,807 --> 00:03:52,268
+friction.
+
+73
+00:03:52,292 --> 00:03:57,215
+An entrepreneur in India
+can set up an online business in minutes,
+
+74
+00:03:57,239 --> 00:04:00,768
+but it's hard for her
+to get loans and to get paid:
+
+75
+00:04:01,512 --> 00:04:02,666
+friction.
+
+76
+00:04:03,701 --> 00:04:08,545
+Our access to digital money
+and our ability to freely transact
+
+77
+00:04:08,569 --> 00:04:11,512
+is being held captive
+by these gatekeepers.
+
+78
+00:04:11,536 --> 00:04:15,352
+And there's a lot of impediments
+in the system slowing things down.
+
+79
+00:04:16,498 --> 00:04:20,040
+That's because digital money
+isn't really mine,
+
+80
+00:04:20,064 --> 00:04:23,638
+it's entries in databases
+that belong to my bank,
+
+81
+00:04:23,662 --> 00:04:26,815
+my credit card company
+or my investment firm.
+
+82
+00:04:26,839 --> 00:04:30,203
+And these companies
+have the right to say "no."
+
+83
+00:04:30,856 --> 00:04:32,648
+If I'm a PayPal merchant
+
+84
+00:04:32,672 --> 00:04:37,143
+and PayPal wrongly flags me for fraud,
+
+85
+00:04:37,167 --> 00:04:38,323
+that's it.
+
+86
+00:04:38,347 --> 00:04:41,634
+My account gets frozen,
+and I can't get paid.
+
+87
+00:04:44,789 --> 00:04:48,837
+These institutions are standing
+in the way of innovation.
+
+88
+00:04:49,946 --> 00:04:54,346
+How many of you use
+Facebook photos, Google Photos,
+
+89
+00:04:54,370 --> 00:04:55,953
+Instagram?
+
+90
+00:04:55,977 --> 00:04:58,323
+My photos are everywhere.
+
+91
+00:04:58,347 --> 00:05:00,832
+They are on my phone,
+they're on my laptop,
+
+92
+00:05:00,856 --> 00:05:03,372
+they're on my old phone,
+they're in Dropbox.
+
+93
+00:05:03,396 --> 00:05:06,228
+They're on all these different
+websites and services.
+
+94
+00:05:06,252 --> 00:05:10,156
+And most of these services
+don't work together.
+
+95
+00:05:10,816 --> 00:05:12,320
+They don't inter-operate.
+
+96
+00:05:13,538 --> 00:05:15,031
+And as a result,
+
+97
+00:05:15,055 --> 00:05:17,265
+my photo library is a mess.
+
+98
+00:05:18,469 --> 00:05:20,211
+The same thing happens
+
+99
+00:05:20,235 --> 00:05:23,194
+when institutions control
+the money supply.
+
+100
+00:05:23,962 --> 00:05:26,697
+A lot of these services
+don't inter-operate,
+
+101
+00:05:26,721 --> 00:05:30,161
+and as a result, this blocks
+what we can do with payment.
+
+102
+00:05:30,185 --> 00:05:32,735
+And it makes transaction costs go up.
+
+103
+00:05:33,723 --> 00:05:37,025
+So far, we've been through
+two phases of money.
+
+104
+00:05:37,952 --> 00:05:41,916
+In an analog world, we had
+to deal with these physical objects,
+
+105
+00:05:41,940 --> 00:05:45,819
+and money moved at a certain speed --
+the speed of humans.
+
+106
+00:05:46,896 --> 00:05:51,765
+In a digital world, money can reach
+much farther and is much faster,
+
+107
+00:05:51,789 --> 00:05:54,819
+but we're at the mercy
+of these gatekeeper institutions.
+
+108
+00:05:55,222 --> 00:05:58,210
+Money only moves at the speed of banks.
+
+109
+00:06:00,008 --> 00:06:02,562
+We're about to enter a new phase of money.
+
+110
+00:06:03,158 --> 00:06:05,868
+The future of money is programmable.
+
+111
+00:06:07,034 --> 00:06:10,461
+When we combine software and currency,
+
+112
+00:06:10,485 --> 00:06:14,262
+money becomes more
+than just a static unit of value,
+
+113
+00:06:14,286 --> 00:06:17,476
+and we don't have to rely
+on institutions for security.
+
+114
+00:06:18,176 --> 00:06:19,705
+In a programmable world,
+
+115
+00:06:19,729 --> 00:06:23,663
+we remove humans
+and institutions from the loop.
+
+116
+00:06:24,610 --> 00:06:25,969
+And when this happens,
+
+117
+00:06:25,993 --> 00:06:28,685
+we won't even feel like
+we're transacting anymore.
+
+118
+00:06:29,683 --> 00:06:31,957
+Money will be directed by software,
+
+119
+00:06:31,981 --> 00:06:34,849
+and it will just safely and securely flow.
+
+120
+00:06:36,828 --> 00:06:39,967
+Cryptocurrencies are the first step
+of this evolution.
+
+121
+00:06:40,787 --> 00:06:42,442
+Cryptocurrencies are digital money
+
+122
+00:06:42,466 --> 00:06:45,334
+that isn't run by any government or bank.
+
+123
+00:06:45,358 --> 00:06:49,419
+It's money designed to work
+in a world without intermediaries.
+
+124
+00:06:50,153 --> 00:06:53,186
+Bitcoin is the most ubiquitous
+cryptocurrency,
+
+125
+00:06:53,210 --> 00:06:54,907
+but there are hundreds of them.
+
+126
+00:06:54,931 --> 00:06:58,408
+There's Ethereum, Litecoin,
+Stellar, Dogecoin,
+
+127
+00:06:58,432 --> 00:07:00,978
+and those are just a few
+of the more popular ones.
+
+128
+00:07:01,408 --> 00:07:04,009
+And these things are real money.
+
+129
+00:07:04,507 --> 00:07:06,362
+The sushi restaurant down my street
+
+130
+00:07:06,386 --> 00:07:07,541
+takes Bitcoin.
+
+131
+00:07:07,966 --> 00:07:12,091
+I have an app on my phone
+that I can use to buy sashimi.
+
+132
+00:07:13,009 --> 00:07:15,429
+But it's not just for small transactions.
+
+133
+00:07:15,453 --> 00:07:20,282
+In March, there was a transaction
+that moved around 100,000 bitcoins.
+
+134
+00:07:20,719 --> 00:07:23,711
+That's the equivalent
+of 40 million US dollars.
+
+135
+00:07:25,445 --> 00:07:28,976
+Cryptocurrencies are based on
+a special field of mathematics
+
+136
+00:07:29,000 --> 00:07:30,383
+called cryptography.
+
+137
+00:07:31,023 --> 00:07:34,794
+Cryptography is the study
+of how to secure communication,
+
+138
+00:07:34,818 --> 00:07:37,517
+and it's about two
+really important things:
+
+139
+00:07:37,541 --> 00:07:41,119
+masking information so it can
+be hidden in plain sight,
+
+140
+00:07:41,143 --> 00:07:44,370
+and verifying a piece
+of information's source.
+
+141
+00:07:45,154 --> 00:07:49,363
+Cryptography underpins
+so many of the systems around us.
+
+142
+00:07:49,387 --> 00:07:51,913
+And it's so powerful that at times
+
+143
+00:07:51,937 --> 00:07:55,589
+the US government has actually
+classified it as a weapon.
+
+144
+00:07:56,591 --> 00:08:01,068
+During World War II,
+breaking cryptosystems like Enigma
+
+145
+00:08:01,092 --> 00:08:04,396
+was critical to decoding
+enemy transmissions
+
+146
+00:08:04,420 --> 00:08:06,324
+and turning the tide of the war.
+
+147
+00:08:07,118 --> 00:08:10,412
+Today, anyone with a modern
+web browser is running
+
+148
+00:08:10,436 --> 00:08:12,498
+a pretty sophisticated cryptosystem.
+
+149
+00:08:13,030 --> 00:08:16,991
+It's what we use to secure
+our interactions on the Internet.
+
+150
+00:08:17,015 --> 00:08:20,176
+It's what makes it safe for us
+to type our passwords in
+
+151
+00:08:20,200 --> 00:08:22,891
+and to send financial
+information to websites.
+
+152
+00:08:23,322 --> 00:08:26,149
+So what the banks used to give us --
+
+153
+00:08:26,173 --> 00:08:28,393
+trustworthy digital money transfer --
+
+154
+00:08:28,417 --> 00:08:32,635
+we can now get with a clever
+application of cryptography.
+
+155
+00:08:33,202 --> 00:08:36,109
+And this means that we don't
+have to rely on the banks anymore
+
+156
+00:08:36,133 --> 00:08:37,764
+to secure our transactions.
+
+157
+00:08:38,248 --> 00:08:40,077
+We can do it ourselves.
+
+158
+00:08:40,857 --> 00:08:45,596
+Bitcoin is based on the very same
+idea that the Yap used,
+
+159
+00:08:45,620 --> 00:08:48,922
+this collective global
+knowledge of transfers.
+
+160
+00:08:49,852 --> 00:08:53,464
+In Bitcoin, I spend
+by transferring Bitcoin,
+
+161
+00:08:53,488 --> 00:08:56,659
+and I get paid when someone
+transfers Bitcoin to me.
+
+162
+00:08:58,313 --> 00:09:01,068
+Imagine that we had this magic paper.
+
+163
+00:09:01,711 --> 00:09:05,299
+So the way that this paper works
+is I can give you a sheet of it
+
+164
+00:09:05,323 --> 00:09:07,053
+and if you write something on it,
+
+165
+00:09:07,077 --> 00:09:09,700
+it will magically appear
+on my piece as well.
+
+166
+00:09:10,721 --> 00:09:13,567
+Let's say we just give everyone this paper
+
+167
+00:09:13,591 --> 00:09:17,419
+and everyone writes down
+the transfers that they're doing
+
+168
+00:09:17,443 --> 00:09:18,899
+in the Bitcoin system.
+
+169
+00:09:19,688 --> 00:09:23,634
+All of these transfers get copied
+around to everyone else's pieces of paper.
+
+170
+00:09:23,658 --> 00:09:25,676
+And I can look at mine
+
+171
+00:09:25,700 --> 00:09:29,225
+and I'll have a list of all
+of the transfers that are happening
+
+172
+00:09:29,249 --> 00:09:31,138
+in the entire Bitcoin economy.
+
+173
+00:09:31,779 --> 00:09:35,341
+This is actually what's happening
+with the Bitcoin blockchain,
+
+174
+00:09:35,365 --> 00:09:39,161
+which is a list of all
+of the transactions in Bitcoin.
+
+175
+00:09:39,185 --> 00:09:41,999
+Except, it's not done through paper.
+
+176
+00:09:42,023 --> 00:09:43,719
+It's done through computer code,
+
+177
+00:09:43,743 --> 00:09:46,406
+running on thousands
+of networked computers
+
+178
+00:09:46,430 --> 00:09:47,638
+around the world.
+
+179
+00:09:49,235 --> 00:09:52,979
+All of these computers
+are collectively confirming
+
+180
+00:09:53,003 --> 00:09:54,887
+who owns what Bitcoin.
+
+181
+00:09:54,911 --> 00:09:58,324
+So the Bitcoin blockchain
+is core to how Bitcoin works.
+
+182
+00:09:58,348 --> 00:10:01,253
+But where do bitcoins actually come from?
+
+183
+00:10:01,930 --> 00:10:05,790
+Well, the code is designed
+to create new Bitcoin
+
+184
+00:10:05,814 --> 00:10:07,111
+according to a schedule.
+
+185
+00:10:07,680 --> 00:10:11,096
+And the way that it works
+is that to get those Bitcoin,
+
+186
+00:10:11,120 --> 00:10:15,906
+I have to solve a puzzle --
+a random cryptographic puzzle.
+
+187
+00:10:17,069 --> 00:10:19,480
+Imagine that we had 15 dice,
+
+188
+00:10:19,504 --> 00:10:22,117
+and we were throwing these dice
+over and over again.
+
+189
+00:10:22,603 --> 00:10:25,035
+Whenever the dice come up all sixes,
+
+190
+00:10:25,059 --> 00:10:26,274
+we say that we win.
+
+191
+00:10:27,095 --> 00:10:30,971
+This is very close to what these computers
+are all actually doing.
+
+192
+00:10:30,995 --> 00:10:34,243
+They're trying over and over again
+to land on the right number.
+
+193
+00:10:34,686 --> 00:10:36,043
+And when they do,
+
+194
+00:10:36,067 --> 00:10:38,268
+we say that they've solved the puzzle.
+
+195
+00:10:39,559 --> 00:10:41,999
+The computer that solves the puzzle
+
+196
+00:10:42,023 --> 00:10:44,941
+publishes its solution
+to the rest of the network
+
+197
+00:10:44,965 --> 00:10:47,892
+and collects its reward: new bitcoins.
+
+198
+00:10:48,750 --> 00:10:50,984
+And in the act of solving this puzzle,
+
+199
+00:10:51,008 --> 00:10:55,084
+these computers are actually
+helping to secure the Bitcoin blockchain
+
+200
+00:10:55,108 --> 00:10:57,189
+and add to the list of transactions.
+
+201
+00:10:57,866 --> 00:11:03,483
+There are actually people
+all over the world running this software,
+
+202
+00:11:03,507 --> 00:11:05,580
+and we call them Bitcoin miners.
+
+203
+00:11:06,438 --> 00:11:09,174
+Anyone can become a Bitcoin miner.
+
+204
+00:11:09,626 --> 00:11:12,417
+You can go download the software right now
+
+205
+00:11:12,441 --> 00:11:15,806
+and run it in your computer
+and try to collect some bitcoins.
+
+206
+00:11:16,400 --> 00:11:18,244
+I can't say that I would recommend it,
+
+207
+00:11:18,268 --> 00:11:23,369
+because right now, the puzzle is so hard
+and the network is so powerful,
+
+208
+00:11:23,393 --> 00:11:26,322
+that if I tried to mine
+Bitcoin on my laptop,
+
+209
+00:11:26,346 --> 00:11:29,654
+I probably wouldn't see any
+for about two million years.
+
+210
+00:11:30,396 --> 00:11:34,643
+The miners, professional miners,
+use this special hardware
+
+211
+00:11:34,667 --> 00:11:37,402
+that's designed to solve
+the puzzle really fast.
+
+212
+00:11:37,976 --> 00:11:41,818
+Now, the Bitcoin network
+and all of this special hardware,
+
+213
+00:11:41,842 --> 00:11:44,877
+there are estimates
+that the amount of energy it uses
+
+214
+00:11:44,901 --> 00:11:47,268
+is equivalent to that of a small country.
+
+215
+00:11:48,252 --> 00:11:50,752
+So, the first set of cryptocurrencies
+
+216
+00:11:50,776 --> 00:11:53,750
+are a little bit slow
+and a little bit cumbersome.
+
+217
+00:11:54,331 --> 00:11:58,720
+But the next generation is going
+to be so much better and so much faster.
+
+218
+00:11:58,744 --> 00:12:01,149
+Cryptocurrencies are the first step
+
+219
+00:12:01,173 --> 00:12:04,633
+to a world with a global
+programmable money.
+
+220
+00:12:05,634 --> 00:12:07,719
+And in a world with programmable money,
+
+221
+00:12:08,431 --> 00:12:11,958
+I can pay anyone else securely
+
+222
+00:12:11,982 --> 00:12:15,555
+without having to sign up
+or ask permission,
+
+223
+00:12:15,579 --> 00:12:19,398
+or do a conversion or worry
+about my money getting stuck.
+
+224
+00:12:20,428 --> 00:12:23,022
+And I can send money around the world.
+
+225
+00:12:23,482 --> 00:12:25,881
+This is a really amazing thing.
+
+226
+00:12:26,231 --> 00:12:29,540
+It's the idea of permission-less innovation.
+
+227
+00:12:31,447 --> 00:12:35,171
+The Internet caused
+an explosion of innovation,
+
+228
+00:12:35,195 --> 00:12:38,654
+because it was built upon
+an open architecture.
+
+229
+00:12:39,286 --> 00:12:42,311
+And just like the Internet
+changed the way we communicate,
+
+230
+00:12:43,104 --> 00:12:46,380
+programmable money is going
+to change the way we pay,
+
+231
+00:12:46,404 --> 00:12:48,978
+allocate and decide on value.
+
+232
+00:12:49,716 --> 00:12:52,214
+So what kind of world
+does programmable money create?
+
+233
+00:12:52,238 --> 00:12:56,454
+Imagine a world where I can
+rent out my healthcare data
+
+234
+00:12:56,478 --> 00:12:58,048
+to a pharmaceutical company.
+
+235
+00:12:59,063 --> 00:13:01,568
+They can run large-scale data analysis
+
+236
+00:13:01,592 --> 00:13:03,964
+and provide me with a cryptographic proof
+
+237
+00:13:03,988 --> 00:13:08,114
+that shows they're only using my data
+in a way that we agreed.
+
+238
+00:13:08,138 --> 00:13:10,386
+And they can pay me
+for what they find out.
+
+239
+00:13:11,529 --> 00:13:14,238
+Instead of signing up
+for streaming services
+
+240
+00:13:14,262 --> 00:13:15,831
+and getting a cable bill,
+
+241
+00:13:15,855 --> 00:13:18,861
+what if my television analyzed
+my watching habits
+
+242
+00:13:18,885 --> 00:13:22,557
+and recommended well-priced content
+that fit within my budget
+
+243
+00:13:22,581 --> 00:13:23,780
+that I would enjoy?
+
+244
+00:13:24,604 --> 00:13:27,470
+Imagine an Internet without ads,
+
+245
+00:13:27,494 --> 00:13:31,501
+because instead of paying
+with our attention when we view content,
+
+246
+00:13:31,525 --> 00:13:32,821
+we just pay.
+
+247
+00:13:33,831 --> 00:13:36,142
+Interestingly, things like micro-payments
+
+248
+00:13:36,166 --> 00:13:39,321
+are actually going to change
+the way security works in our world,
+
+249
+00:13:39,345 --> 00:13:42,040
+because once we're better able
+to allocate value,
+
+250
+00:13:42,064 --> 00:13:45,088
+people will use their money
+and their energies
+
+251
+00:13:45,112 --> 00:13:47,290
+for more constructive things.
+
+252
+00:13:47,727 --> 00:13:50,316
+If it cost a fraction of a cent
+to send an email,
+
+253
+00:13:50,340 --> 00:13:51,802
+would we still have spam?
+
+254
+00:13:52,674 --> 00:13:54,877
+We're not at this world yet,
+
+255
+00:13:54,901 --> 00:13:56,358
+but it's coming.
+
+256
+00:13:56,382 --> 00:14:00,719
+Right now, it's like we're in a world
+that is seeing the first automobile.
+
+257
+00:14:01,579 --> 00:14:04,564
+The first cryptocurrency,
+like the first car,
+
+258
+00:14:05,533 --> 00:14:09,260
+is slow and hard to understand
+and hard to use.
+
+259
+00:14:10,095 --> 00:14:12,641
+Digital money,
+like the horse and carriage,
+
+260
+00:14:12,665 --> 00:14:14,195
+works pretty well,
+
+261
+00:14:14,219 --> 00:14:17,264
+and the whole world economy
+is built on it.
+
+262
+00:14:18,386 --> 00:14:20,460
+If you were the first person on your block
+
+263
+00:14:20,484 --> 00:14:23,255
+to get a car with an internal
+combustion engine,
+
+264
+00:14:23,279 --> 00:14:25,777
+your neighbors would probably
+think you were crazy:
+
+265
+00:14:26,321 --> 00:14:28,794
+"Why would you want
+this large, clunky machine
+
+266
+00:14:28,818 --> 00:14:31,723
+that breaks down all the time,
+that lights on fire,
+
+267
+00:14:31,747 --> 00:14:34,084
+and is still slower than a horse?"
+
+268
+00:14:34,928 --> 00:14:37,139
+But we all know how that story turns out.
+
+269
+00:14:38,431 --> 00:14:42,001
+We're entering a new era
+of programmable money.
+
+270
+00:14:42,025 --> 00:14:45,076
+And it's very exciting,
+but it's also a little bit scary.
+
+271
+00:14:46,691 --> 00:14:50,205
+Cryptocurrencies can be used
+for illegal transactions,
+
+272
+00:14:50,229 --> 00:14:53,474
+just like cash is used for crime
+in the world today.
+
+273
+00:14:54,497 --> 00:14:56,975
+When all of our transactions are online,
+
+274
+00:14:56,999 --> 00:15:00,318
+what does that mean for surveillance --
+who can see what we do?
+
+275
+00:15:02,115 --> 00:15:05,202
+Who's advantaged
+in this new world and who isn't?
+
+276
+00:15:05,226 --> 00:15:08,900
+Will I have to start to pay for things
+that I didn't have to pay for before?
+
+277
+00:15:09,372 --> 00:15:13,259
+Will we all become slaves
+to algorithms and utility functions?
+
+278
+00:15:15,114 --> 00:15:17,518
+All new technology comes with trade-offs.
+
+279
+00:15:18,012 --> 00:15:21,901
+The Internet brought us
+a lot of ways to waste time.
+
+280
+00:15:22,375 --> 00:15:25,096
+But it also greatly
+increased productivity.
+
+281
+00:15:25,731 --> 00:15:27,237
+Mobile phones are annoying
+
+282
+00:15:27,261 --> 00:15:30,245
+because they make me feel
+like I have to stay connected to work
+
+283
+00:15:30,269 --> 00:15:31,424
+all the time.
+
+284
+00:15:31,448 --> 00:15:34,274
+But they also help me stay connected
+to friends and family.
+
+285
+00:15:35,274 --> 00:15:39,618
+The new sharing economy
+is going to eliminate some jobs.
+
+286
+00:15:40,165 --> 00:15:44,059
+But it's also going to create
+new, flexible forms of employment.
+
+287
+00:15:44,601 --> 00:15:46,527
+With programmable money,
+
+288
+00:15:46,551 --> 00:15:51,503
+we decouple the need
+for large, trusted institutions
+
+289
+00:15:51,527 --> 00:15:53,820
+from the architecture of the network.
+
+290
+00:15:54,570 --> 00:15:59,656
+And this pushes innovation in money
+out to the edges, where it belongs.
+
+291
+00:16:00,960 --> 00:16:03,774
+Programmable money democratizes money.
+
+292
+00:16:04,461 --> 00:16:07,219
+And because of this,
+things are going to change and unfold
+
+293
+00:16:07,243 --> 00:16:09,234
+in ways that we can't even predict.
+
+294
+00:16:10,488 --> 00:16:11,650
+Thank you.
+
+295
+00:16:11,674 --> 00:16:15,638
+(Applause)

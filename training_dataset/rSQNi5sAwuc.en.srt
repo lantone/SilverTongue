@@ -1,0 +1,631 @@
+0
+00:00:14,318 --> 00:00:17,270
+The brain is an amazing and complex organ.
+
+1
+00:00:17,627 --> 00:00:20,068
+And while many people
+are fascinated by the brain,
+
+2
+00:00:20,093 --> 00:00:21,835
+they can't really tell you that much
+
+3
+00:00:21,865 --> 00:00:24,102
+about the properties
+about how the brain works
+
+4
+00:00:24,142 --> 00:00:26,455
+because we don't teach
+neuroscience in schools.
+
+5
+00:00:26,455 --> 00:00:28,898
+And one of the reasons
+why is that the equipment
+
+6
+00:00:28,898 --> 00:00:31,557
+is so complex and so expensive
+
+7
+00:00:31,557 --> 00:00:35,703
+that it's really only done at major
+universities and large institutions.
+
+8
+00:00:35,703 --> 00:00:37,942
+And so in order to be able
+to access the brain,
+
+9
+00:00:37,942 --> 00:00:39,767
+you really need to dedicate your life
+
+10
+00:00:39,767 --> 00:00:42,247
+and spend six and a half years
+as a graduate student
+
+11
+00:00:42,247 --> 00:00:45,202
+just to become a neuroscientist
+to get access to these tools.
+
+12
+00:00:45,202 --> 00:00:47,539
+And that's a shame
+because one out of five of us,
+
+13
+00:00:47,539 --> 00:00:51,365
+that's 20 percent of the entire world,
+will have a neurological disorder.
+
+14
+00:00:51,365 --> 00:00:54,796
+And there are zero cures
+for these diseases.
+
+15
+00:00:54,796 --> 00:00:57,015
+And so it seems that
+what we should be doing
+
+16
+00:00:57,015 --> 00:00:59,432
+is reaching back earlier
+in the eduction process
+
+17
+00:00:59,432 --> 00:01:04,009
+and teaching students about neuroscience
+so that in the future,
+
+18
+00:01:04,009 --> 00:01:07,961
+they may be thinking about possibly
+becoming a brain scientist.
+
+19
+00:01:08,064 --> 00:01:11,758
+When I was a graduate student,
+my lab mate Tim Marzullo and myself,
+
+20
+00:01:11,758 --> 00:01:15,639
+decided that what if we took
+this complex equipment that we have
+
+21
+00:01:15,639 --> 00:01:19,038
+for studying the brain and made it simple
+enough and affordable enough
+
+22
+00:01:19,038 --> 00:01:22,354
+that anyone that you know, an amateur
+or a high school student,
+
+23
+00:01:22,354 --> 00:01:25,836
+could learn and actually participate
+in the discovery of neuroscience.
+
+24
+00:01:25,836 --> 00:01:27,573
+And so we did just that.
+
+25
+00:01:27,573 --> 00:01:30,466
+A few years ago, we started
+a company called Backyard Brains
+
+26
+00:01:30,466 --> 00:01:34,871
+and we make DIY neuroscience equipment
+and I brought some here tonight,
+
+27
+00:01:34,871 --> 00:01:37,377
+and I want to do some demonstrations.
+
+28
+00:01:37,377 --> 00:01:38,811
+You guys want to see some?
+
+29
+00:01:38,811 --> 00:01:41,774
+So I need a volunteer.
+
+30
+00:01:41,774 --> 00:01:44,027
+So right before -- what is your name?
+(Applause)
+
+31
+00:01:44,027 --> 00:01:45,070
+Sam Kelly: Sam.
+
+32
+00:01:45,070 --> 00:01:48,095
+Greg Gage: All right, Sam, I'm going
+to record from your brain.
+
+33
+00:01:48,095 --> 00:01:49,849
+Have you had this before?
+
+34
+00:01:49,849 --> 00:01:50,950
+SK: No.
+
+35
+00:01:50,950 --> 00:01:53,264
+GG: I need you to stick out
+your arm for science,
+
+36
+00:01:53,264 --> 00:01:54,833
+roll up your sleeve a bit,
+
+37
+00:01:54,833 --> 00:01:57,713
+So what I'm going to do,
+I'm putting electrodes on your arm,
+
+38
+00:01:57,713 --> 00:01:59,202
+and you're probably wondering,
+
+39
+00:01:59,202 --> 00:02:02,941
+I just said I'm going to record from your
+brain, what am I doing with your arm?
+
+40
+00:02:02,941 --> 00:02:06,175
+Well, you have about 80 billion neurons
+inside your brain right now.
+
+41
+00:02:06,175 --> 00:02:09,663
+They're sending electrical messages
+back and forth, and chemical messages.
+
+42
+00:02:09,663 --> 00:02:12,336
+But some of your neurons
+right here in your motor cortex
+
+43
+00:02:12,336 --> 00:02:15,431
+are going to send messages down
+when you move your arm like this.
+
+44
+00:02:15,431 --> 00:02:17,915
+They're going to go down
+across your corpus callosum,
+
+45
+00:02:17,915 --> 00:02:20,449
+down onto your spinal cord
+to your lower motor neuron
+
+46
+00:02:20,449 --> 00:02:21,718
+out to your muscles here,
+
+47
+00:02:21,718 --> 00:02:24,327
+and that electrical discharge
+is going to be picked up
+
+48
+00:02:24,327 --> 00:02:25,861
+by these electrodes right here
+
+49
+00:02:25,861 --> 00:02:27,583
+and we're going to be able to listen
+
+50
+00:02:27,583 --> 00:02:29,835
+to exactly what your brain
+is going to be doing.
+
+51
+00:02:29,835 --> 00:02:31,835
+So I'm going to turn this on for a second.
+
+52
+00:02:31,835 --> 00:02:34,131
+Have you ever heard
+what your brain sounds like?
+
+53
+00:02:34,131 --> 00:02:35,131
+SK: No.
+
+54
+00:02:35,166 --> 00:02:37,900
+GG: Let's try it out.
+So go ahead and squeeze your hand.
+
+55
+00:02:37,900 --> 00:02:38,972
+(Rumbling)
+
+56
+00:02:38,972 --> 00:02:40,848
+So what you're listening to,
+
+57
+00:02:40,848 --> 00:02:44,111
+so this is your motor units
+happening right here.
+
+58
+00:02:44,111 --> 00:02:46,192
+Let's take a look at it as well.
+
+59
+00:02:46,192 --> 00:02:48,961
+So I'm going to stand over here,
+
+60
+00:02:49,009 --> 00:02:51,152
+and I'm going to open up our app here.
+
+61
+00:02:52,028 --> 00:02:53,727
+So now I want you to squeeze.
+
+62
+00:02:53,727 --> 00:02:54,727
+(Rumbling)
+
+63
+00:02:54,816 --> 00:02:57,674
+So right here, these are the motor units
+that are happening
+
+64
+00:02:57,674 --> 00:03:00,133
+from her spinal cord
+out to her muscle right here,
+
+65
+00:03:00,133 --> 00:03:01,355
+and as she's doing it,
+
+66
+00:03:01,355 --> 00:03:04,189
+you're seeing the electrical activity
+that's happening here.
+
+67
+00:03:04,189 --> 00:03:06,630
+You can even click here
+and try to see one of them.
+
+68
+00:03:06,630 --> 00:03:08,101
+So keep doing it really hard.
+
+69
+00:03:08,101 --> 00:03:09,171
+So now we've paused
+
+70
+00:03:09,171 --> 00:03:13,451
+on one motor action potential that's
+happening right now inside of your brain.
+
+71
+00:03:13,451 --> 00:03:15,227
+Do you guys want to see some more?
+
+72
+00:03:15,227 --> 00:03:16,810
+(Applause)
+
+73
+00:03:16,810 --> 00:03:18,929
+That's interesting,
+but let's get it better.
+
+74
+00:03:18,954 --> 00:03:20,278
+I need one more volunteer.
+
+75
+00:03:21,857 --> 00:03:23,487
+What is your name, sir?
+
+76
+00:03:24,000 --> 00:03:25,207
+Miguel Goncalves: Miguel.
+
+77
+00:03:25,269 --> 00:03:26,400
+GG: Miguel, all right.
+
+78
+00:03:26,400 --> 00:03:27,976
+You're going to stand right here.
+
+79
+00:03:27,976 --> 00:03:29,968
+So when you're moving your arm like this,
+
+80
+00:03:29,968 --> 00:03:33,083
+your brain is sending a signal
+down to your muscles right here.
+
+81
+00:03:33,083 --> 00:03:34,857
+I want you to move your arm as well.
+
+82
+00:03:34,857 --> 00:03:37,731
+So your brain is going to send
+a signal down to your muscles.
+
+83
+00:03:37,731 --> 00:03:41,580
+And so it turns out that there is
+a nerve that's right here
+
+84
+00:03:41,580 --> 00:03:44,336
+that runs up here that innervates
+these three fingers,
+
+85
+00:03:44,336 --> 00:03:47,012
+and it's close enough to the skin
+that we might be able
+
+86
+00:03:47,012 --> 00:03:49,346
+to stimulate that so that what we can do
+
+87
+00:03:49,346 --> 00:03:52,832
+is copy your brain signals
+going out to your hand
+
+88
+00:03:52,832 --> 00:03:54,353
+and inject it into your hand,
+
+89
+00:03:54,353 --> 00:03:57,726
+so that your hand will move
+when your brain tells your hand to move.
+
+90
+00:03:57,726 --> 00:04:00,933
+So in a sense, she will take away
+your free will
+
+91
+00:04:00,933 --> 00:04:03,893
+and you will no longer have
+any control over this hand.
+
+92
+00:04:03,964 --> 00:04:05,567
+You with me?
+
+93
+00:04:05,567 --> 00:04:07,618
+So I just need to hook you up.
+
+94
+00:04:07,618 --> 00:04:09,369
+(Laughter)
+
+95
+00:04:09,369 --> 00:04:11,430
+So I'm going to find your ulnar nerve,
+
+96
+00:04:11,430 --> 00:04:13,392
+which is probably right around here.
+
+97
+00:04:14,630 --> 00:04:16,631
+You don't know what you're signing up for
+
+98
+00:04:16,631 --> 00:04:17,726
+when you come up.
+
+99
+00:04:17,734 --> 00:04:20,499
+So now I'm going to move away
+and we're going to plug it in
+
+100
+00:04:20,524 --> 00:04:22,575
+to our human-to-human interface over here.
+
+101
+00:04:24,345 --> 00:04:27,392
+Okay, so Sam, I want you
+to squeeze your hand again.
+
+102
+00:04:29,194 --> 00:04:31,152
+Do it again. Perfect.
+
+103
+00:04:31,152 --> 00:04:34,155
+So now I'm going to hook you up
+over here so that you get the --
+
+104
+00:04:34,155 --> 00:04:36,399
+It's going to feel
+a little bit weird at first,
+
+105
+00:04:36,399 --> 00:04:38,863
+this is going to feel like a --
+(Laughter)
+
+106
+00:04:38,863 --> 00:04:42,680
+You know, when you lose your free will,
+and someone else becomes your agent,
+
+107
+00:04:42,680 --> 00:04:44,306
+it does feel a bit strange.
+
+108
+00:04:44,306 --> 00:04:46,208
+Now I want you to relax your hand.
+
+109
+00:04:46,208 --> 00:04:47,532
+Sam, you're with me?
+
+110
+00:04:47,532 --> 00:04:48,997
+So you're going to squeeze.
+
+111
+00:04:48,997 --> 00:04:52,284
+I'm not going to turn it on yet,
+so go ahead and give it a squeeze.
+
+112
+00:04:52,284 --> 00:04:54,240
+So now, are you ready, Miguel?
+
+113
+00:04:54,240 --> 00:04:56,062
+MG: Ready as I'll ever be.
+
+114
+00:04:56,062 --> 00:04:59,265
+GG: I've turned it on, so go ahead
+and turn your hand.
+
+115
+00:04:59,265 --> 00:05:01,298
+Do you feel that a little bit?
+MG: Nope.
+
+116
+00:05:01,298 --> 00:05:03,198
+GG: Okay, do it again?
+MG: A little bit.
+
+117
+00:05:03,198 --> 00:05:04,884
+GG: A little bit? (Laughter)
+
+118
+00:05:04,884 --> 00:05:05,909
+So relax.
+
+119
+00:05:05,909 --> 00:05:07,325
+So hit it again.
+
+120
+00:05:07,325 --> 00:05:08,521
+(Laughter)
+
+121
+00:05:08,521 --> 00:05:10,226
+Oh, perfect, perfect.
+
+122
+00:05:10,226 --> 00:05:12,110
+So relax, do it again.
+
+123
+00:05:12,110 --> 00:05:14,878
+All right, so right now,
+
+124
+00:05:14,878 --> 00:05:19,279
+your brain is controlling your arm
+and it's also controlling his arm,
+
+125
+00:05:19,279 --> 00:05:21,471
+so go ahead and just do it one more time.
+
+126
+00:05:21,471 --> 00:05:23,504
+All right, so it's perfect. (Laughter)
+
+127
+00:05:23,504 --> 00:05:27,265
+So now, what would happen
+if I took over my control of your hand?
+
+128
+00:05:27,265 --> 00:05:29,508
+And so, just relax your hand.
+
+129
+00:05:29,508 --> 00:05:31,726
+What happens?
+
+130
+00:05:31,726 --> 00:05:32,760
+Ah, nothing.
+
+131
+00:05:32,760 --> 00:05:34,298
+Why not?
+
+132
+00:05:34,298 --> 00:05:35,993
+Because the brain has to do it.
+
+133
+00:05:35,993 --> 00:05:37,307
+So you do it again.
+
+134
+00:05:37,346 --> 00:05:39,780
+All right, that's perfect.
+
+135
+00:05:39,780 --> 00:05:42,319
+Thank you guys for being
+such a good sport.
+
+136
+00:05:42,319 --> 00:05:44,575
+This is what's happening
+all across the world --
+
+137
+00:05:44,575 --> 00:05:45,911
+electrophysiology!
+
+138
+00:05:45,911 --> 00:05:48,158
+We're going to bring on
+the neuro-revolution.
+
+139
+00:05:48,158 --> 00:05:49,175
+Thank you.
+
+140
+00:05:49,175 --> 00:05:50,928
+(Applause)

@@ -1,0 +1,1969 @@
+[
+    {
+        "index": 0, 
+        "end": 26, 
+        "text": "Let", 
+        "start": 1, 
+        "syllables": [
+            {
+                "pitch_low": 333.48, 
+                "index": 0, 
+                "end": 26, 
+                "pitch_high": 320.53, 
+                "text": "let", 
+                "start": 1, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 13, 
+                        "quality": 35.0, 
+                        "start": 1, 
+                        "text": "l"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 21, 
+                        "quality": 95.75, 
+                        "start": 13, 
+                        "text": "eh"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 26, 
+                        "quality": 79.8, 
+                        "start": 21, 
+                        "text": "t"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 70.0
+            }
+        ], 
+        "quality": 70.0
+    }, 
+    {
+        "index": 1, 
+        "end": 35, 
+        "text": "her", 
+        "start": 26, 
+        "syllables": [
+            {
+                "pitch_low": 101.45066666666666, 
+                "index": 0, 
+                "end": 35, 
+                "pitch_high": 121.07666666666665, 
+                "text": "her", 
+                "start": 26, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 27, 
+                        "quality": 0.0, 
+                        "start": 26, 
+                        "text": "hh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 35, 
+                        "quality": 11.041666666666671, 
+                        "start": 27, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 6.0
+            }
+        ], 
+        "quality": 6.0
+    }, 
+    {
+        "index": 2, 
+        "end": 114, 
+        "text": "go", 
+        "start": 38, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 114, 
+                "pitch_high": 374.57, 
+                "text": "go", 
+                "start": 38, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 45, 
+                        "quality": 52.142857142857146, 
+                        "start": 38, 
+                        "text": "g"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 114, 
+                        "quality": 31.01449275362318, 
+                        "start": 45, 
+                        "text": "ow"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 42.0
+            }
+        ], 
+        "quality": 42.0
+    }, 
+    {
+        "index": 3, 
+        "end": 160, 
+        "text": "let", 
+        "start": 134, 
+        "syllables": [
+            {
+                "pitch_low": 220.82, 
+                "index": 0, 
+                "end": 160, 
+                "pitch_high": 197.67, 
+                "text": "let", 
+                "start": 134, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 143, 
+                        "quality": 35.74074074074073, 
+                        "start": 134, 
+                        "text": "l"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 153, 
+                        "quality": 89.0, 
+                        "start": 143, 
+                        "text": "eh"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 160, 
+                        "quality": 91.71428571428571, 
+                        "start": 153, 
+                        "text": "t"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 72.0
+            }
+        ], 
+        "quality": 72.0
+    }, 
+    {
+        "index": 4, 
+        "end": 164, 
+        "text": "her", 
+        "start": 160, 
+        "syllables": [
+            {
+                "pitch_low": 0, 
+                "index": 0, 
+                "end": 164, 
+                "pitch_high": 0, 
+                "text": "her", 
+                "start": 160, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 161, 
+                        "quality": 0.0, 
+                        "start": 160, 
+                        "text": "hh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 164, 
+                        "quality": 35.0, 
+                        "start": 161, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "REDUCED", 
+                "quality": 18.0
+            }
+        ], 
+        "quality": 18.0
+    }, 
+    {
+        "index": 5, 
+        "end": 238, 
+        "text": "go", 
+        "start": 165, 
+        "syllables": [
+            {
+                "pitch_low": 294.73, 
+                "index": 0, 
+                "end": 238, 
+                "pitch_high": 295.53, 
+                "text": "go", 
+                "start": 165, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 180, 
+                        "quality": 60.666666666666664, 
+                        "start": 165, 
+                        "text": "g"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 238, 
+                        "quality": 42.87931034482759, 
+                        "start": 180, 
+                        "text": "ow"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 52.0
+            }
+        ], 
+        "quality": 52.0
+    }, 
+    {
+        "index": 6, 
+        "end": 298, 
+        "text": "God", 
+        "start": 259, 
+        "syllables": [
+            {
+                "pitch_low": 375.09, 
+                "index": 0, 
+                "end": 298, 
+                "pitch_high": 372.18, 
+                "text": "god", 
+                "start": 259, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 274, 
+                        "quality": 43.044444444444444, 
+                        "start": 259, 
+                        "text": "g"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 290, 
+                        "quality": 98.75, 
+                        "start": 274, 
+                        "text": "aa"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 298, 
+                        "quality": 92.25, 
+                        "start": 290, 
+                        "text": "d"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 78.0
+            }
+        ], 
+        "quality": 78.0
+    }, 
+    {
+        "index": 7, 
+        "end": 467, 
+        "text": "bless", 
+        "start": 325, 
+        "syllables": [
+            {
+                "pitch_low": 263.31, 
+                "index": 0, 
+                "end": 467, 
+                "pitch_high": 357.57, 
+                "text": "bless", 
+                "start": 325, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 377, 
+                        "quality": 16.282051282051285, 
+                        "start": 325, 
+                        "text": "b"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 387, 
+                        "quality": 35.0, 
+                        "start": 377, 
+                        "text": "l"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 395, 
+                        "quality": 90.16666666666667, 
+                        "start": 387, 
+                        "text": "eh"
+                    }, 
+                    {
+                        "index": 3, 
+                        "end": 467, 
+                        "quality": 19.62037037037037, 
+                        "start": 395, 
+                        "text": "s"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 40.0
+            }
+        ], 
+        "quality": 40.0
+    }, 
+    {
+        "index": 8, 
+        "end": 504, 
+        "text": "her", 
+        "start": 468, 
+        "syllables": [
+            {
+                "pitch_low": 292.99, 
+                "index": 0, 
+                "end": 504, 
+                "pitch_high": 319.3334042553192, 
+                "text": "her", 
+                "start": 468, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 491, 
+                        "quality": 63.71014492753623, 
+                        "start": 468, 
+                        "text": "hh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 504, 
+                        "quality": 47.38461538461537, 
+                        "start": 491, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 56.0
+            }
+        ], 
+        "quality": 56.0
+    }, 
+    {
+        "index": 9, 
+        "end": 853, 
+        "text": "Wherever", 
+        "start": 583, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 716, 
+                "pitch_high": 292.57, 
+                "text": "whe", 
+                "start": 583, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 703, 
+                        "quality": 44.71111111111111, 
+                        "start": 583, 
+                        "text": "hh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 703, 
+                        "quality": 0, 
+                        "start": 703, 
+                        "text": "w"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 716, 
+                        "quality": 98.61538461538461, 
+                        "start": 703, 
+                        "text": "eh"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 48.0
+            }, 
+            {
+                "pitch_low": 109.77, 
+                "index": 1, 
+                "end": 788, 
+                "pitch_high": 95.57, 
+                "text": "re", 
+                "start": 716, 
+                "phones": [
+                    {
+                        "index": 3, 
+                        "end": 716, 
+                        "quality": 0, 
+                        "start": 716, 
+                        "text": "r"
+                    }, 
+                    {
+                        "index": 4, 
+                        "end": 788, 
+                        "quality": 72.96759259259258, 
+                        "start": 716, 
+                        "text": "eh"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 36.0
+            }, 
+            {
+                "pitch_low": 84.55, 
+                "index": 2, 
+                "end": 853, 
+                "pitch_high": 107.21890625, 
+                "text": "ver", 
+                "start": 788, 
+                "phones": [
+                    {
+                        "index": 5, 
+                        "end": 790, 
+                        "quality": 63.5, 
+                        "start": 788, 
+                        "text": "v"
+                    }, 
+                    {
+                        "index": 6, 
+                        "end": 853, 
+                        "quality": 55.285714285714285, 
+                        "start": 790, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 59.0
+            }
+        ], 
+        "quality": 48.0
+    }, 
+    {
+        "index": 10, 
+        "end": 856, 
+        "text": "she", 
+        "start": 853, 
+        "syllables": [
+            {
+                "pitch_low": 0, 
+                "index": 0, 
+                "end": 856, 
+                "pitch_high": 0, 
+                "text": "she", 
+                "start": 853, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 854, 
+                        "quality": 0.0, 
+                        "start": 853, 
+                        "text": "sh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 856, 
+                        "quality": 45.833333333333336, 
+                        "start": 854, 
+                        "text": "iy"
+                    }
+                ], 
+                "intonation": "REDUCED", 
+                "quality": 23.0
+            }
+        ], 
+        "quality": 23.0
+    }, 
+    {
+        "index": 11, 
+        "end": 920, 
+        "text": "may", 
+        "start": 857, 
+        "syllables": [
+            {
+                "pitch_low": 385.19, 
+                "index": 0, 
+                "end": 920, 
+                "pitch_high": 398.92, 
+                "text": "may", 
+                "start": 857, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 865, 
+                        "quality": 57.5, 
+                        "start": 857, 
+                        "text": "m"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 920, 
+                        "quality": 98.18181818181819, 
+                        "start": 865, 
+                        "text": "ey"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 78.0
+            }
+        ], 
+        "quality": 78.0
+    }, 
+    {
+        "index": 12, 
+        "end": 926, 
+        "text": "be", 
+        "start": 920, 
+        "syllables": [
+            {
+                "pitch_low": 112.39, 
+                "index": 0, 
+                "end": 926, 
+                "pitch_high": 103.43999999999996, 
+                "text": "be", 
+                "start": 920, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 921, 
+                        "quality": 35.0, 
+                        "start": 920, 
+                        "text": "b"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 926, 
+                        "quality": 87.4, 
+                        "start": 921, 
+                        "text": "iy"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 61.0
+            }
+        ], 
+        "quality": 61.0
+    }, 
+    {
+        "index": 13, 
+        "end": 929, 
+        "text": "She", 
+        "start": 926, 
+        "syllables": [
+            {
+                "pitch_low": 110.11062500000004, 
+                "index": 0, 
+                "end": 929, 
+                "pitch_high": 111.89, 
+                "text": "she", 
+                "start": 926, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 927, 
+                        "quality": 35.0, 
+                        "start": 926, 
+                        "text": "sh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 929, 
+                        "quality": 87.0, 
+                        "start": 927, 
+                        "text": "iy"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 61.0
+            }
+        ], 
+        "quality": 61.0
+    }, 
+    {
+        "index": 14, 
+        "end": 1131, 
+        "text": "can", 
+        "start": 929, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 1131, 
+                "pitch_high": 390.79, 
+                "text": "can", 
+                "start": 929, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 930, 
+                        "quality": 35.0, 
+                        "start": 929, 
+                        "text": "k"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1129, 
+                        "quality": 50.93969849246231, 
+                        "start": 930, 
+                        "text": "ae"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1131, 
+                        "quality": 64.99999999999999, 
+                        "start": 1129, 
+                        "text": "n"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 50.0
+            }
+        ], 
+        "quality": 50.0
+    }, 
+    {
+        "index": 15, 
+        "end": 1148, 
+        "text": "search", 
+        "start": 1132, 
+        "syllables": [
+            {
+                "pitch_low": 0, 
+                "index": 0, 
+                "end": 1148, 
+                "pitch_high": 0, 
+                "text": "search", 
+                "start": 1132, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1139, 
+                        "quality": 30.523809523809526, 
+                        "start": 1132, 
+                        "text": "s"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1147, 
+                        "quality": 83.0, 
+                        "start": 1139, 
+                        "text": "er"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1148, 
+                        "quality": 35.0, 
+                        "start": 1147, 
+                        "text": "ch"
+                    }
+                ], 
+                "intonation": "REDUCED", 
+                "quality": 50.0
+            }
+        ], 
+        "quality": 50.0
+    }, 
+    {
+        "index": 16, 
+        "end": 1176, 
+        "text": "this", 
+        "start": 1148, 
+        "syllables": [
+            {
+                "pitch_low": 0, 
+                "index": 0, 
+                "end": 1176, 
+                "pitch_high": 0, 
+                "text": "this", 
+                "start": 1148, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1153, 
+                        "quality": 50.06666666666667, 
+                        "start": 1148, 
+                        "text": "dh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1171, 
+                        "quality": 40.074074074074076, 
+                        "start": 1153, 
+                        "text": "ih"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1176, 
+                        "quality": 72.13333333333334, 
+                        "start": 1171, 
+                        "text": "s"
+                    }
+                ], 
+                "intonation": "REDUCED", 
+                "quality": 54.0
+            }
+        ], 
+        "quality": 54.0
+    }, 
+    {
+        "index": 17, 
+        "end": 1193, 
+        "text": "whole", 
+        "start": 1180, 
+        "syllables": [
+            {
+                "pitch_low": 372.46692307692285, 
+                "index": 0, 
+                "end": 1193, 
+                "pitch_high": 366.56, 
+                "text": "whole", 
+                "start": 1180, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1182, 
+                        "quality": 40.0, 
+                        "start": 1180, 
+                        "text": "hh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1187, 
+                        "quality": 44.6, 
+                        "start": 1182, 
+                        "text": "ow"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1193, 
+                        "quality": 26.666666666666668, 
+                        "start": 1187, 
+                        "text": "l"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 37.0
+            }
+        ], 
+        "quality": 37.0
+    }, 
+    {
+        "index": 18, 
+        "end": 1458, 
+        "text": "wide", 
+        "start": 1193, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 1458, 
+                "pitch_high": 372.46692307692285, 
+                "text": "wide", 
+                "start": 1193, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1196, 
+                        "quality": 35.0, 
+                        "start": 1193, 
+                        "text": "w"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1450, 
+                        "quality": 74.95931758530185, 
+                        "start": 1196, 
+                        "text": "ay"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1458, 
+                        "quality": 50.125, 
+                        "start": 1450, 
+                        "text": "d"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 53.0
+            }
+        ], 
+        "quality": 53.0
+    }, 
+    {
+        "index": 19, 
+        "end": 1476, 
+        "text": "world", 
+        "start": 1458, 
+        "syllables": [
+            {
+                "pitch_low": 285.76, 
+                "index": 0, 
+                "end": 1476, 
+                "pitch_high": 276.86, 
+                "text": "world", 
+                "start": 1458, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1459, 
+                        "quality": 94.0, 
+                        "start": 1458, 
+                        "text": "w"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1470, 
+                        "quality": 81.60606060606061, 
+                        "start": 1459, 
+                        "text": "er"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1470, 
+                        "quality": 0, 
+                        "start": 1470, 
+                        "text": "l"
+                    }, 
+                    {
+                        "index": 3, 
+                        "end": 1476, 
+                        "quality": 59.111111111111114, 
+                        "start": 1470, 
+                        "text": "d"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 59.0
+            }
+        ], 
+        "quality": 59.0
+    }, 
+    {
+        "index": 20, 
+        "end": 1532, 
+        "text": "all", 
+        "start": 1519, 
+        "syllables": [
+            {
+                "pitch_low": 175.5, 
+                "index": 0, 
+                "end": 1532, 
+                "pitch_high": 161.12, 
+                "text": "all", 
+                "start": 1519, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1524, 
+                        "quality": 35.0, 
+                        "start": 1519, 
+                        "text": "ao"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1532, 
+                        "quality": 74.25, 
+                        "start": 1524, 
+                        "text": "l"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 55.0
+            }
+        ], 
+        "quality": 55.0
+    }, 
+    {
+        "index": 21, 
+        "end": 1539, 
+        "text": "over", 
+        "start": 1532, 
+        "syllables": [
+            {
+                "pitch_low": 150.51399999999984, 
+                "index": 0, 
+                "end": 1533, 
+                "pitch_high": 154.6266666666664, 
+                "text": "o", 
+                "start": 1532, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1533, 
+                        "quality": 35.0, 
+                        "start": 1532, 
+                        "text": "ow"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 35.0
+            }, 
+            {
+                "pitch_low": 125.83799999999971, 
+                "index": 1, 
+                "end": 1539, 
+                "pitch_high": 150.51399999999984, 
+                "text": "ver", 
+                "start": 1533, 
+                "phones": [
+                    {
+                        "index": 1, 
+                        "end": 1536, 
+                        "quality": 37.22222222222222, 
+                        "start": 1533, 
+                        "text": "v"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1539, 
+                        "quality": 50.333333333333336, 
+                        "start": 1536, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 44.0
+            }
+        ], 
+        "quality": 41.0
+    }, 
+    {
+        "index": 22, 
+        "end": 1575, 
+        "text": "But", 
+        "start": 1539, 
+        "syllables": [
+            {
+                "pitch_low": 246.06499999999983, 
+                "index": 0, 
+                "end": 1575, 
+                "pitch_high": 327.2, 
+                "text": "but", 
+                "start": 1539, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1542, 
+                        "quality": 23.88888888888889, 
+                        "start": 1539, 
+                        "text": "b"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1560, 
+                        "quality": 92.64814814814814, 
+                        "start": 1542, 
+                        "text": "ah"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1575, 
+                        "quality": 74.73333333333333, 
+                        "start": 1560, 
+                        "text": "t"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 64.0
+            }
+        ], 
+        "quality": 64.0
+    }, 
+    {
+        "index": 23, 
+        "end": 1608, 
+        "text": "she'll", 
+        "start": 1579, 
+        "syllables": [
+            {
+                "pitch_low": 345.66, 
+                "index": 0, 
+                "end": 1608, 
+                "pitch_high": 295.27, 
+                "text": "she'll", 
+                "start": 1579, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1583, 
+                        "quality": 49.58333333333333, 
+                        "start": 1579, 
+                        "text": "sh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1607, 
+                        "quality": 46.85416666666668, 
+                        "start": 1583, 
+                        "text": "iy"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1608, 
+                        "quality": 82.0, 
+                        "start": 1607, 
+                        "text": "l"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 59.0
+            }
+        ], 
+        "quality": 59.0
+    }, 
+    {
+        "index": 24, 
+        "end": 1683, 
+        "text": "never", 
+        "start": 1608, 
+        "syllables": [
+            {
+                "pitch_low": 292.4, 
+                "index": 0, 
+                "end": 1665, 
+                "pitch_high": 335.6583333333336, 
+                "text": "ne", 
+                "start": 1608, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1634, 
+                        "quality": 84.53846153846153, 
+                        "start": 1608, 
+                        "text": "n"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1665, 
+                        "quality": 41.752688172043015, 
+                        "start": 1634, 
+                        "text": "eh"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 63.0
+            }, 
+            {
+                "pitch_low": 150.2977777777775, 
+                "index": 1, 
+                "end": 1683, 
+                "pitch_high": 148.83, 
+                "text": "ver", 
+                "start": 1665, 
+                "phones": [
+                    {
+                        "index": 2, 
+                        "end": 1670, 
+                        "quality": 100.0, 
+                        "start": 1665, 
+                        "text": "v"
+                    }, 
+                    {
+                        "index": 3, 
+                        "end": 1683, 
+                        "quality": 98.53846153846153, 
+                        "start": 1670, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 99.0
+            }
+        ], 
+        "quality": 81.0
+    }, 
+    {
+        "index": 25, 
+        "end": 1721, 
+        "text": "find", 
+        "start": 1683, 
+        "syllables": [
+            {
+                "pitch_low": 333.7, 
+                "index": 0, 
+                "end": 1721, 
+                "pitch_high": 329.93, 
+                "text": "find", 
+                "start": 1683, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1684, 
+                        "quality": 0.0, 
+                        "start": 1683, 
+                        "text": "f"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 1721, 
+                        "quality": 88.83783783783784, 
+                        "start": 1684, 
+                        "text": "ay"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 22.0
+            }
+        ], 
+        "quality": 22.0
+    }, 
+    {
+        "index": 26, 
+        "end": 1758, 
+        "text": "another", 
+        "start": 1721, 
+        "syllables": [
+            {
+                "pitch_low": 317.0510526315787, 
+                "index": 0, 
+                "end": 1734, 
+                "pitch_high": 295.67, 
+                "text": "a", 
+                "start": 1721, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1734, 
+                        "quality": 58.94871794871795, 
+                        "start": 1721, 
+                        "text": "ah"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 59.0
+            }, 
+            {
+                "pitch_low": 346.45, 
+                "index": 1, 
+                "end": 1748, 
+                "pitch_high": 317.0510526315787, 
+                "text": "no", 
+                "start": 1734, 
+                "phones": [
+                    {
+                        "index": 1, 
+                        "end": 1734, 
+                        "quality": 0, 
+                        "start": 1734, 
+                        "text": "n"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 1748, 
+                        "quality": 62.142857142857146, 
+                        "start": 1734, 
+                        "text": "ah"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 31.0
+            }, 
+            {
+                "pitch_low": 147.4685714285714, 
+                "index": 2, 
+                "end": 1758, 
+                "pitch_high": 147.1, 
+                "text": "ther", 
+                "start": 1748, 
+                "phones": [
+                    {
+                        "index": 3, 
+                        "end": 1753, 
+                        "quality": 35.0, 
+                        "start": 1748, 
+                        "text": "dh"
+                    }, 
+                    {
+                        "index": 4, 
+                        "end": 1758, 
+                        "quality": 35.0, 
+                        "start": 1753, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 35.0
+            }
+        ], 
+        "quality": 38.0
+    }, 
+    {
+        "index": 27, 
+        "end": 2093, 
+        "text": "man", 
+        "start": 1758, 
+        "syllables": [
+            {
+                "pitch_low": 347.48, 
+                "index": 0, 
+                "end": 2093, 
+                "pitch_high": 352.53, 
+                "text": "man", 
+                "start": 1758, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 1774, 
+                        "quality": 78.72916666666667, 
+                        "start": 1758, 
+                        "text": "m"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2090, 
+                        "quality": 82.67721518987342, 
+                        "start": 1774, 
+                        "text": "ae"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2093, 
+                        "quality": 96.0, 
+                        "start": 2090, 
+                        "text": "n"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 86.0
+            }
+        ], 
+        "quality": 86.0
+    }, 
+    {
+        "index": 28, 
+        "end": 2104, 
+        "text": "like", 
+        "start": 2094, 
+        "syllables": [
+            {
+                "pitch_low": 140.38, 
+                "index": 0, 
+                "end": 2104, 
+                "pitch_high": 150.97230769230754, 
+                "text": "like", 
+                "start": 2094, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2095, 
+                        "quality": 0.0, 
+                        "start": 2094, 
+                        "text": "l"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2103, 
+                        "quality": 47.75, 
+                        "start": 2095, 
+                        "text": "ay"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2104, 
+                        "quality": 35.0, 
+                        "start": 2103, 
+                        "text": "k"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 28.0
+            }
+        ], 
+        "quality": 28.0
+    }, 
+    {
+        "index": 29, 
+        "end": 2110, 
+        "text": "me", 
+        "start": 2104, 
+        "syllables": [
+            {
+                "pitch_low": 204.3928571428578, 
+                "index": 0, 
+                "end": 2110, 
+                "pitch_high": 140.25, 
+                "text": "me", 
+                "start": 2104, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2107, 
+                        "quality": 35.0, 
+                        "start": 2104, 
+                        "text": "m"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2110, 
+                        "quality": 55.888888888888886, 
+                        "start": 2107, 
+                        "text": "iy"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 45.0
+            }
+        ], 
+        "quality": 45.0
+    }, 
+    {
+        "index": 30, 
+        "end": 2125, 
+        "text": "She", 
+        "start": 2110, 
+        "syllables": [
+            {
+                "pitch_low": 372.5200000000005, 
+                "index": 0, 
+                "end": 2125, 
+                "pitch_high": 341.22, 
+                "text": "she", 
+                "start": 2110, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2120, 
+                        "quality": 53.29999999999999, 
+                        "start": 2110, 
+                        "text": "sh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2125, 
+                        "quality": 46.366666666666674, 
+                        "start": 2120, 
+                        "text": "iy"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 50.0
+            }
+        ], 
+        "quality": 50.0
+    }, 
+    {
+        "index": 31, 
+        "end": 2153, 
+        "text": "can", 
+        "start": 2125, 
+        "syllables": [
+            {
+                "pitch_low": 280.22, 
+                "index": 0, 
+                "end": 2153, 
+                "pitch_high": 276.79, 
+                "text": "can", 
+                "start": 2125, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2125, 
+                        "quality": 0, 
+                        "start": 2125, 
+                        "text": "k"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2153, 
+                        "quality": 73.89285714285714, 
+                        "start": 2125, 
+                        "text": "ae"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 25.0
+            }
+        ], 
+        "quality": 25.0
+    }, 
+    {
+        "index": 32, 
+        "end": 2200, 
+        "text": "search", 
+        "start": 2153, 
+        "syllables": [
+            {
+                "pitch_low": 125.10463414634143, 
+                "index": 0, 
+                "end": 2200, 
+                "pitch_high": 86.35256097560982, 
+                "text": "search", 
+                "start": 2153, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2173, 
+                        "quality": 90.13333333333333, 
+                        "start": 2153, 
+                        "text": "s"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2193, 
+                        "quality": 34.99999999999999, 
+                        "start": 2173, 
+                        "text": "er"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2200, 
+                        "quality": 45.952380952380956, 
+                        "start": 2193, 
+                        "text": "ch"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 57.0
+            }
+        ], 
+        "quality": 57.0
+    }, 
+    {
+        "index": 33, 
+        "end": 2237, 
+        "text": "this", 
+        "start": 2202, 
+        "syllables": [
+            {
+                "pitch_low": 134.50230769230743, 
+                "index": 0, 
+                "end": 2237, 
+                "pitch_high": 149.59, 
+                "text": "this", 
+                "start": 2202, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2216, 
+                        "quality": 49.40476190476191, 
+                        "start": 2202, 
+                        "text": "dh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2235, 
+                        "quality": 88.43859649122807, 
+                        "start": 2216, 
+                        "text": "ih"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2237, 
+                        "quality": 38.33333333333333, 
+                        "start": 2235, 
+                        "text": "s"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 59.0
+            }
+        ], 
+        "quality": 59.0
+    }, 
+    {
+        "index": 34, 
+        "end": 2262, 
+        "text": "whole", 
+        "start": 2247, 
+        "syllables": [
+            {
+                "pitch_low": 224.49, 
+                "index": 0, 
+                "end": 2262, 
+                "pitch_high": 140.7630769230767, 
+                "text": "whole", 
+                "start": 2247, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2256, 
+                        "quality": 98.0, 
+                        "start": 2247, 
+                        "text": "hh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2262, 
+                        "quality": 35.0, 
+                        "start": 2256, 
+                        "text": "ow"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 44.0
+            }
+        ], 
+        "quality": 44.0
+    }, 
+    {
+        "index": 35, 
+        "end": 2530, 
+        "text": "wide", 
+        "start": 2262, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 2530, 
+                "pitch_high": 390.24, 
+                "text": "wide", 
+                "start": 2262, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2263, 
+                        "quality": 0.0, 
+                        "start": 2262, 
+                        "text": "w"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2526, 
+                        "quality": 75.01013941698352, 
+                        "start": 2263, 
+                        "text": "ay"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2530, 
+                        "quality": 35.0, 
+                        "start": 2526, 
+                        "text": "d"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 37.0
+            }
+        ], 
+        "quality": 37.0
+    }, 
+    {
+        "index": 36, 
+        "end": 2589, 
+        "text": "world", 
+        "start": 2530, 
+        "syllables": [
+            {
+                "pitch_low": 132.30938775510177, 
+                "index": 0, 
+                "end": 2589, 
+                "pitch_high": 235.72, 
+                "text": "world", 
+                "start": 2530, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2533, 
+                        "quality": 35.0, 
+                        "start": 2530, 
+                        "text": "w"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2543, 
+                        "quality": 44.5, 
+                        "start": 2533, 
+                        "text": "er"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2548, 
+                        "quality": 35.0, 
+                        "start": 2543, 
+                        "text": "l"
+                    }, 
+                    {
+                        "index": 3, 
+                        "end": 2589, 
+                        "quality": 29.650406504065042, 
+                        "start": 2548, 
+                        "text": "d"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 36.0
+            }
+        ], 
+        "quality": 36.0
+    }, 
+    {
+        "index": 37, 
+        "end": 2592, 
+        "text": "all", 
+        "start": 2589, 
+        "syllables": [
+            {
+                "pitch_low": 125.09469387755045, 
+                "index": 0, 
+                "end": 2592, 
+                "pitch_high": 132.3093877551018, 
+                "text": "all", 
+                "start": 2589, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2590, 
+                        "quality": 0.0, 
+                        "start": 2589, 
+                        "text": "ao"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2592, 
+                        "quality": 35.0, 
+                        "start": 2590, 
+                        "text": "l"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 18.0
+            }
+        ], 
+        "quality": 18.0
+    }, 
+    {
+        "index": 38, 
+        "end": 2600, 
+        "text": "over", 
+        "start": 2592, 
+        "syllables": [
+            {
+                "pitch_low": 117.88, 
+                "index": 0, 
+                "end": 2595, 
+                "pitch_high": 125.09469387755045, 
+                "text": "o", 
+                "start": 2592, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2595, 
+                        "quality": 51.0, 
+                        "start": 2592, 
+                        "text": "ow"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 51.0
+            }, 
+            {
+                "pitch_low": 344.0719047619053, 
+                "index": 1, 
+                "end": 2600, 
+                "pitch_high": 340.63, 
+                "text": "ver", 
+                "start": 2595, 
+                "phones": [
+                    {
+                        "index": 1, 
+                        "end": 2597, 
+                        "quality": 35.0, 
+                        "start": 2595, 
+                        "text": "v"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2600, 
+                        "quality": 29.444444444444446, 
+                        "start": 2597, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 32.0
+            }
+        ], 
+        "quality": 38.0
+    }, 
+    {
+        "index": 39, 
+        "end": 2626, 
+        "text": "And", 
+        "start": 2601, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 2626, 
+                "pitch_high": 347.51380952381055, 
+                "text": "and", 
+                "start": 2601, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2618, 
+                        "quality": 99.41176470588235, 
+                        "start": 2601, 
+                        "text": "ae"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2625, 
+                        "quality": 96.85714285714286, 
+                        "start": 2618, 
+                        "text": "n"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2626, 
+                        "quality": 35.0, 
+                        "start": 2625, 
+                        "text": "d"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 77.0
+            }
+        ], 
+        "quality": 77.0
+    }, 
+    {
+        "index": 40, 
+        "end": 2645, 
+        "text": "she'll", 
+        "start": 2627, 
+        "syllables": [
+            {
+                "pitch_low": 136.72, 
+                "index": 0, 
+                "end": 2645, 
+                "pitch_high": 141.8011764705882, 
+                "text": "she'll", 
+                "start": 2627, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2631, 
+                        "quality": 40.0, 
+                        "start": 2627, 
+                        "text": "sh"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2632, 
+                        "quality": 41.666666666666664, 
+                        "start": 2631, 
+                        "text": "iy"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2645, 
+                        "quality": 84.84615384615384, 
+                        "start": 2632, 
+                        "text": "l"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 56.0
+            }
+        ], 
+        "quality": 56.0
+    }, 
+    {
+        "index": 41, 
+        "end": 2668, 
+        "text": "never", 
+        "start": 2645, 
+        "syllables": [
+            {
+                "pitch_low": 108.98153846153846, 
+                "index": 0, 
+                "end": 2668, 
+                "pitch_high": 109.24, 
+                "text": "ne", 
+                "start": 2645, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2652, 
+                        "quality": 34.999999999999986, 
+                        "start": 2645, 
+                        "text": "n"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2668, 
+                        "quality": 84.22916666666667, 
+                        "start": 2652, 
+                        "text": "eh"
+                    }
+                ], 
+                "intonation": "FALL", 
+                "quality": 60.0
+            }, 
+            {
+                "pitch_low": 0, 
+                "index": 1, 
+                "end": 2668, 
+                "pitch_high": 0, 
+                "text": "ver", 
+                "start": 2668, 
+                "phones": [], 
+                "intonation": null, 
+                "quality": 0.0
+            }
+        ], 
+        "quality": 30.0
+    }, 
+    {
+        "index": 42, 
+        "end": 2674, 
+        "text": "find", 
+        "start": 2668, 
+        "syllables": [
+            {
+                "pitch_low": 108.59384615384616, 
+                "index": 0, 
+                "end": 2674, 
+                "pitch_high": 108.98153846153846, 
+                "text": "find", 
+                "start": 2668, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2669, 
+                        "quality": 41.666666666666664, 
+                        "start": 2668, 
+                        "text": "f"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 2674, 
+                        "quality": 98.6, 
+                        "start": 2669, 
+                        "text": "ay"
+                    }
+                ], 
+                "intonation": "FLAT", 
+                "quality": 35.0
+            }
+        ], 
+        "quality": 35.0
+    }, 
+    {
+        "index": 43, 
+        "end": 2690, 
+        "text": "another", 
+        "start": 2676, 
+        "syllables": [
+            {
+                "pitch_low": 108.3353846153846, 
+                "index": 0, 
+                "end": 2678, 
+                "pitch_high": 108.46461538461537, 
+                "text": "a", 
+                "start": 2676, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2678, 
+                        "quality": 86.0, 
+                        "start": 2676, 
+                        "text": "ah"
+                    }
+                ], 
+                "intonation": "FLAT", 
+                "quality": 86.0
+            }, 
+            {
+                "pitch_low": 107.94769230769231, 
+                "index": 1, 
+                "end": 2684, 
+                "pitch_high": 108.3353846153846, 
+                "text": "no", 
+                "start": 2678, 
+                "phones": [
+                    {
+                        "index": 1, 
+                        "end": 2678, 
+                        "quality": 0, 
+                        "start": 2678, 
+                        "text": "n"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 2684, 
+                        "quality": 95.33333333333333, 
+                        "start": 2678, 
+                        "text": "ah"
+                    }
+                ], 
+                "intonation": "FLAT", 
+                "quality": 48.0
+            }, 
+            {
+                "pitch_low": 107.56, 
+                "index": 2, 
+                "end": 2690, 
+                "pitch_high": 107.94769230769231, 
+                "text": "ther", 
+                "start": 2684, 
+                "phones": [
+                    {
+                        "index": 3, 
+                        "end": 2689, 
+                        "quality": 57.93333333333334, 
+                        "start": 2684, 
+                        "text": "dh"
+                    }, 
+                    {
+                        "index": 4, 
+                        "end": 2690, 
+                        "quality": 91.0, 
+                        "start": 2689, 
+                        "text": "er"
+                    }
+                ], 
+                "intonation": "FLAT", 
+                "quality": 74.0
+            }
+        ], 
+        "quality": 66.0
+    }, 
+    {
+        "index": 44, 
+        "end": 3631, 
+        "text": "man", 
+        "start": 2690, 
+        "syllables": [
+            {
+                "pitch_low": 398.92, 
+                "index": 0, 
+                "end": 3631, 
+                "pitch_high": 376.52, 
+                "text": "man", 
+                "start": 2690, 
+                "phones": [
+                    {
+                        "index": 0, 
+                        "end": 2698, 
+                        "quality": 99.5, 
+                        "start": 2690, 
+                        "text": "m"
+                    }, 
+                    {
+                        "index": 1, 
+                        "end": 3607, 
+                        "quality": 66.95122845617894, 
+                        "start": 2698, 
+                        "text": "ae"
+                    }, 
+                    {
+                        "index": 2, 
+                        "end": 3631, 
+                        "quality": 85.38888888888887, 
+                        "start": 3607, 
+                        "text": "n"
+                    }
+                ], 
+                "intonation": "RISE", 
+                "quality": 84.0
+            }
+        ], 
+        "quality": 84.0
+    }
+]

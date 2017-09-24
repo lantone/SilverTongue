@@ -1,0 +1,677 @@
+0
+00:00:12,934 --> 00:00:16,268
+Here are some images of clusters of galaxies.
+
+1
+00:00:16,268 --> 00:00:18,101
+They're exactly what they sound like.
+
+2
+00:00:18,101 --> 00:00:20,654
+They are these huge collections of galaxies,
+
+3
+00:00:20,654 --> 00:00:22,909
+bound together by their mutual gravity.
+
+4
+00:00:22,909 --> 00:00:25,571
+So most of the points that you see on the screen
+
+5
+00:00:25,571 --> 00:00:28,100
+are not individual stars,
+
+6
+00:00:28,100 --> 00:00:30,936
+but collections of stars, or galaxies.
+
+7
+00:00:30,936 --> 00:00:33,267
+Now, by showing you some of these images,
+
+8
+00:00:33,267 --> 00:00:35,014
+I hope that you will quickly see that
+
+9
+00:00:35,014 --> 00:00:37,694
+galaxy clusters are these beautiful objects,
+
+10
+00:00:37,694 --> 00:00:39,187
+but more than that,
+
+11
+00:00:39,187 --> 00:00:41,850
+I think galaxy clusters are mysterious,
+
+12
+00:00:41,850 --> 00:00:43,403
+they are surprising,
+
+13
+00:00:43,403 --> 00:00:44,820
+and they're useful.
+
+14
+00:00:44,820 --> 00:00:48,351
+Useful as the universe's most massive laboratories.
+
+15
+00:00:48,351 --> 00:00:51,987
+And as laboratories, to describe galaxy clusters
+
+16
+00:00:51,987 --> 00:00:53,852
+is to describe the experiments
+
+17
+00:00:53,852 --> 00:00:55,405
+that you can do with them.
+
+18
+00:00:55,405 --> 00:00:57,685
+And I think there are four major types,
+
+19
+00:00:57,685 --> 00:01:00,269
+and the first type that I want to describe
+
+20
+00:01:00,269 --> 00:01:02,488
+is probing the very big.
+
+21
+00:01:02,488 --> 00:01:04,183
+So, how big?
+
+22
+00:01:04,183 --> 00:01:08,434
+Well, here is an image of a particular galaxy cluster.
+
+23
+00:01:08,434 --> 00:01:11,403
+It is so massive that the light passing through it
+
+24
+00:01:11,403 --> 00:01:14,018
+is being bent, it's being distorted
+
+25
+00:01:14,018 --> 00:01:16,527
+by the extreme gravity of this cluster.
+
+26
+00:01:16,527 --> 00:01:18,331
+And, in fact, if you look very carefully
+
+27
+00:01:18,331 --> 00:01:21,031
+you'll be able to see rings around this cluster.
+
+28
+00:01:21,031 --> 00:01:22,580
+Now, to give you a number,
+
+29
+00:01:22,580 --> 00:01:24,363
+this particular galaxy cluster
+
+30
+00:01:24,363 --> 00:01:28,571
+has a mass of over one million billion suns.
+
+31
+00:01:28,571 --> 00:01:31,884
+It's just mind-boggling how
+massive these systems can get.
+
+32
+00:01:31,884 --> 00:01:33,385
+But more than their mass,
+
+33
+00:01:33,385 --> 00:01:35,359
+they have this additional feature.
+
+34
+00:01:35,359 --> 00:01:37,703
+They are essentially isolated systems,
+
+35
+00:01:37,703 --> 00:01:39,925
+so if we like, we can think of them
+
+36
+00:01:39,925 --> 00:01:43,195
+as a scaled-down version of the entire universe.
+
+37
+00:01:43,195 --> 00:01:45,197
+And many of the questions that we might have
+
+38
+00:01:45,197 --> 00:01:47,165
+about the universe at large scales,
+
+39
+00:01:47,165 --> 00:01:49,080
+such as, how does gravity work?
+
+40
+00:01:49,080 --> 00:01:52,112
+might be answered by studying these systems.
+
+41
+00:01:52,112 --> 00:01:53,445
+So that was very big.
+
+42
+00:01:53,445 --> 00:01:55,330
+The second things is very hot.
+
+43
+00:01:55,330 --> 00:01:58,113
+Okay, if I take an image of a galaxy cluster,
+
+44
+00:01:58,113 --> 00:02:01,030
+and I subtract away all of the starlight,
+
+45
+00:02:01,030 --> 00:02:03,825
+what I'm left with is this big, blue blob.
+
+46
+00:02:03,825 --> 00:02:05,310
+This is in false color.
+
+47
+00:02:05,310 --> 00:02:07,659
+It's actually X-ray light that we're seeing.
+
+48
+00:02:07,659 --> 00:02:10,320
+And the question is, if it's not galaxies,
+
+49
+00:02:10,320 --> 00:02:12,519
+what is emitting this light?
+
+50
+00:02:12,519 --> 00:02:14,419
+The answer is hot gas,
+
+51
+00:02:14,419 --> 00:02:16,242
+million-degree gas --
+
+52
+00:02:16,242 --> 00:02:17,899
+in fact, it's plasma.
+
+53
+00:02:17,899 --> 00:02:19,558
+And the reason why it's so hot
+
+54
+00:02:19,558 --> 00:02:21,538
+goes back to the previous slide.
+
+55
+00:02:21,538 --> 00:02:24,278
+The extreme gravity of these systems
+
+56
+00:02:24,278 --> 00:02:27,320
+is accelerating particles of gas to great speeds,
+
+57
+00:02:27,320 --> 00:02:29,902
+and great speeds means great temperatures.
+
+58
+00:02:29,902 --> 00:02:31,621
+So this is the main idea,
+
+59
+00:02:31,621 --> 00:02:33,987
+but science is a rough draft.
+
+60
+00:02:33,987 --> 00:02:36,538
+There are many basic properties about this plasma
+
+61
+00:02:36,538 --> 00:02:38,236
+that still confuse us,
+
+62
+00:02:38,236 --> 00:02:39,569
+still puzzle us,
+
+63
+00:02:39,569 --> 00:02:41,655
+and still push our understanding
+
+64
+00:02:41,655 --> 00:02:43,694
+of the physics of the very hot.
+
+65
+00:02:43,694 --> 00:02:47,121
+Third thing: probing the very small.
+
+66
+00:02:47,121 --> 00:02:49,967
+Now, to explain this, I need to tell you
+
+67
+00:02:49,967 --> 00:02:51,987
+a very disturbing fact.
+
+68
+00:02:51,987 --> 00:02:54,777
+Most of the universe's matter
+
+69
+00:02:54,777 --> 00:02:56,588
+is not made up of atoms.
+
+70
+00:02:56,588 --> 00:02:58,538
+You were lied to.
+
+71
+00:02:58,538 --> 00:03:01,665
+Most of it is made up of something
+very, very mysterious,
+
+72
+00:03:01,665 --> 00:03:03,787
+which we call dark matter.
+
+73
+00:03:03,787 --> 00:03:07,454
+Dark matter is something that
+doesn't like to interact very much,
+
+74
+00:03:07,454 --> 00:03:09,122
+except through gravity,
+
+75
+00:03:09,122 --> 00:03:10,734
+and of course we would like to learn more about it.
+
+76
+00:03:10,734 --> 00:03:12,277
+If you're a particle physicist,
+
+77
+00:03:12,277 --> 00:03:14,786
+you want to know what happens
+when we smash things together.
+
+78
+00:03:14,786 --> 00:03:16,776
+And dark matter is no exception.
+
+79
+00:03:16,776 --> 00:03:18,436
+Well, how do we do this?
+
+80
+00:03:18,436 --> 00:03:19,927
+To answer that question,
+
+81
+00:03:19,927 --> 00:03:21,320
+I'm going to have to ask another one,
+
+82
+00:03:21,320 --> 00:03:24,486
+which is, what happens when galaxy clusters collide?
+
+83
+00:03:24,486 --> 00:03:26,796
+Here is an image.
+
+84
+00:03:26,796 --> 00:03:29,987
+Since galaxy clusters are representative
+
+85
+00:03:29,987 --> 00:03:33,111
+slices of the universe, scaled-down versions.
+
+86
+00:03:33,111 --> 00:03:35,234
+They are mostly made up of dark matter,
+
+87
+00:03:35,234 --> 00:03:37,787
+and that's what you see in this bluish purple.
+
+88
+00:03:37,787 --> 00:03:39,404
+The red represents the hot gas,
+
+89
+00:03:39,404 --> 00:03:41,371
+and, of course, you can see many galaxies.
+
+90
+00:03:41,371 --> 00:03:43,736
+What's happened is a particle accelerator
+
+91
+00:03:43,736 --> 00:03:45,627
+at a huge, huge scale.
+
+92
+00:03:45,627 --> 00:03:47,404
+And this is very important,
+
+93
+00:03:47,404 --> 00:03:49,287
+because what it means is that very, very small
+
+94
+00:03:49,287 --> 00:03:52,371
+effects that might be difficult to detect in the lab,
+
+95
+00:03:52,371 --> 00:03:54,550
+might be compounded and compounded
+
+96
+00:03:54,550 --> 00:03:58,359
+into something that we could
+possibly observe in nature.
+
+97
+00:03:58,359 --> 00:03:59,871
+So, it's very funny.
+
+98
+00:03:59,871 --> 00:04:01,819
+The reason why galaxy clusters
+
+99
+00:04:01,819 --> 00:04:03,485
+can teach us about dark matter,
+
+100
+00:04:03,485 --> 00:04:05,235
+the reason why galaxy clusters
+
+101
+00:04:05,235 --> 00:04:07,788
+can teach us about the physics of the very small,
+
+102
+00:04:07,788 --> 00:04:10,819
+is precisely because they are so very big.
+
+103
+00:04:10,819 --> 00:04:14,904
+Fourth thing: the physics of the very strange.
+
+104
+00:04:14,904 --> 00:04:17,954
+Certainly what I've said so far is crazy.
+
+105
+00:04:17,954 --> 00:04:20,237
+Okay, if there's anything stranger
+
+106
+00:04:20,237 --> 00:04:22,654
+I think it has to be dark energy.
+
+107
+00:04:22,654 --> 00:04:24,371
+If I throw a ball into the air,
+
+108
+00:04:24,371 --> 00:04:26,169
+I expect it to go up.
+
+109
+00:04:26,169 --> 00:04:28,293
+What I don't expect is that it go up
+
+110
+00:04:28,293 --> 00:04:30,459
+at an ever-increasing rate.
+
+111
+00:04:30,459 --> 00:04:33,204
+Similarly, cosmologists understand why
+
+112
+00:04:33,204 --> 00:04:34,786
+the universe is expanding.
+
+113
+00:04:34,786 --> 00:04:36,954
+They don't understand why it's expanding
+
+114
+00:04:36,954 --> 00:04:38,892
+at an ever-increasing rate.
+
+115
+00:04:38,892 --> 00:04:40,570
+They give the cause of this
+
+116
+00:04:40,570 --> 00:04:42,162
+accelerated expansion a name,
+
+117
+00:04:42,162 --> 00:04:44,046
+and they call it dark energy.
+
+118
+00:04:44,046 --> 00:04:46,734
+And, again, we want to learn more about it.
+
+119
+00:04:46,734 --> 00:04:49,121
+So, one particular question that we have is,
+
+120
+00:04:49,121 --> 00:04:51,816
+how does dark energy affect the universe
+
+121
+00:04:51,816 --> 00:04:53,434
+at the largest scales?
+
+122
+00:04:53,434 --> 00:04:54,893
+Depending on how strong it is,
+
+123
+00:04:54,893 --> 00:04:58,154
+maybe structure forms faster or slower.
+
+124
+00:04:58,154 --> 00:05:00,703
+Well, the problem with the large-scale structure
+
+125
+00:05:00,703 --> 00:05:03,041
+of the universe is that it's horribly complicated.
+
+126
+00:05:03,041 --> 00:05:05,370
+Here is a computer simulation.
+
+127
+00:05:05,370 --> 00:05:07,498
+And we need a way to simplify it.
+
+128
+00:05:07,498 --> 00:05:11,069
+Well, I like to think about this using an analogy.
+
+129
+00:05:11,069 --> 00:05:13,787
+If I want to understand the sinking of the Titanic,
+
+130
+00:05:13,787 --> 00:05:15,453
+the most important thing to do
+
+131
+00:05:15,453 --> 00:05:17,234
+is not to model the little positions
+
+132
+00:05:17,234 --> 00:05:20,155
+of every single little piece of the boat that broke off.
+
+133
+00:05:20,155 --> 00:05:21,820
+The most important thing to do is
+
+134
+00:05:21,820 --> 00:05:23,821
+to track the two biggest parts.
+
+135
+00:05:23,821 --> 00:05:27,653
+Similarly, I can learn a lot about the universe
+
+136
+00:05:27,653 --> 00:05:29,120
+at the largest scales
+
+137
+00:05:29,120 --> 00:05:30,871
+by tracking its biggest pieces
+
+138
+00:05:30,871 --> 00:05:34,862
+and those biggest pieces are clusters of galaxies.
+
+139
+00:05:34,862 --> 00:05:37,818
+So, as I come to a close,
+
+140
+00:05:37,818 --> 00:05:39,820
+you might feel slightly cheated.
+
+141
+00:05:39,820 --> 00:05:42,070
+I mean, I began by talking about
+
+142
+00:05:42,070 --> 00:05:44,153
+how galaxy clusters are useful,
+
+143
+00:05:44,153 --> 00:05:45,653
+and I've given some reasons,
+
+144
+00:05:45,653 --> 00:05:48,253
+but what is their use really?
+
+145
+00:05:48,253 --> 00:05:50,370
+Well, to answer this,
+
+146
+00:05:50,370 --> 00:05:52,986
+I want to give you a quote by Henry Ford
+
+147
+00:05:52,986 --> 00:05:54,472
+when he was asked about cars.
+
+148
+00:05:54,472 --> 00:05:55,831
+He had this to say:
+
+149
+00:05:55,831 --> 00:05:58,120
+"If I had asked people what they wanted,
+
+150
+00:05:58,120 --> 00:06:00,903
+they would have said faster horses."
+
+151
+00:06:00,903 --> 00:06:03,404
+Today, we as a society are faced
+
+152
+00:06:03,404 --> 00:06:05,622
+with many, many difficult problems.
+
+153
+00:06:05,622 --> 00:06:09,453
+And the solutions to these
+problems are not obvious.
+
+154
+00:06:09,453 --> 00:06:11,620
+They are not faster horses.
+
+155
+00:06:11,620 --> 00:06:13,862
+They will require an enormous amount of
+
+156
+00:06:13,862 --> 00:06:15,568
+scientific ingenuity.
+
+157
+00:06:15,568 --> 00:06:17,154
+So, yes, we need to focus,
+
+158
+00:06:17,154 --> 00:06:18,904
+yes, we need to concentrate,
+
+159
+00:06:18,904 --> 00:06:20,870
+but we also need to remember that
+
+160
+00:06:20,870 --> 00:06:23,705
+innovation, ingenuity, inspiration --
+
+161
+00:06:23,705 --> 00:06:25,037
+these things come
+
+162
+00:06:25,037 --> 00:06:26,725
+when we broaden our field of vision
+
+163
+00:06:26,725 --> 00:06:28,065
+when we step back
+
+164
+00:06:28,065 --> 00:06:29,414
+when we zoom out.
+
+165
+00:06:29,414 --> 00:06:31,237
+And I can't think of a better way to do this than
+
+166
+00:06:31,237 --> 00:06:34,992
+by studying the universe around us. Thanks.
+
+167
+00:06:34,992 --> 00:06:37,941
+(Applause)
