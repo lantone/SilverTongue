@@ -2,55 +2,66 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="silvertongue.ico">
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- Custom styles for this template -->
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='css/mystyle.css') }}">
 
     <title>SilverTongue</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom styles for this template -->
-    <link href="signin.css" rel="stylesheet">
   </head>
 
   <body>
 
-    <form id="input_text" action="/process" method="GET">
-      <div class="row">
-        <div class="col-md-5">
-          <label for="url_text"> </label>
-          <input class="form-control" id="url_text" name="url_text" placeholder="Enter your YouTube URL">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#"><img src="../static/silvertongue.png"></a>
         </div>
-        <div class="col-md-2"></div>
-      </div>
-      <div class="row">
-        <div class="col-md-5"></div>
-        <div class="col-md-2">
-<!--          <div class="text-center">  -->
-            <br>
-            <button type="submit" class="btn btn-primary btn-lg">Go!</button>
-          </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="about">About</a></li>
+          </ul>
         </div>
-        <div class="col-md-5"></div>
       </div>
-    </form>
+    </nav>
+
+    <br><br><br><br><br><br><br><br><br>
+
+    <div class="row">
+      <form id="input_text" action="/process" method="GET">
+	<div class="col-md-4"></div>
+	<div class="col-md-4">
+	  <input class="form-control" id="url_text" name="url_text" placeholder="Enter your YouTube URL">
+	</div>
+	<div class="col-md-1">
+	  <button type="submit" class="btn btn-primary btn-md">Go!</button>
+	</div>
+	<div class="col-md-3"></div>
+      </form>
+    </div>
+
+    <footer class="navbar-fixed-bottom navbar-inverse">
+      <div class="container">
+        <span class="text-muted">&copy; 2017, Jamie Antonelli</span>
+      </div>
+    </footer>
+    <br>
     
+
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>

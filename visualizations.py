@@ -12,11 +12,11 @@ import audiometrics
 import textmetrics
 
 fig_size = plt.rcParams["figure.figsize"]
-fig_size[0] = 16
+fig_size[0] = 30
 fig_size[1] = 0.8
 plt.rcParams["figure.figsize"] = fig_size
 plt.subplots_adjust(left=0,right=1, top=0.8, bottom=0.1)
-plt.rcParams.update({'font.size': 21})
+plt.rcParams.update({'font.size': 30})
 
 base_path =  os.environ['BASE_PATH']
 ref_data_dir = base_path + 'training_dataset/'
@@ -36,9 +36,13 @@ bin_percentiles = [(100-included_frac)/2.+i*(included_frac/len(colors)) for i in
 #add red bins for outside included_frac
 colors = [red.hex] + colors + [red.hex]
 
+testing = False
+
 ###########################################################################################################
 
 def create_image(user_score, values, min, max, filename, percentage = False, round = True, zero_is_good = False):
+
+    fig = plt.figure()
 
     bin_edges = [np.percentile(values, i) for i in bin_percentiles]
     widths = [bin_edges[0]]
@@ -101,7 +105,9 @@ def create_image(user_score, values, min, max, filename, percentage = False, rou
         xticks = mtick.FormatStrFormatter(fmt)
         ax.xaxis.set_major_formatter(xticks)
 
-    plt.savefig(filename, transparent=True, bbox_inches='tight',dpi=800)
+    extent = ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted())
+    plt.savefig(filename, transparent=True,bbox_inches=extent.expanded(1.05, 2.5),dpi=800)
+
     plt.clf()
 
 
@@ -118,8 +124,8 @@ def make_avg_word_score_plot(user_score, timestamp):
     values = []
     # make reference distribution
     for i, ref in enumerate(reference_inputs):
-#        if i > 5:
-#            break
+        if testing and i > 5:
+            break
         values.append(audiometrics.get_avg_word_score(ref))
 
     create_image(user_score, values, min, max, filename, percentage = True)
@@ -138,8 +144,8 @@ def make_pitch_variation_plot(user_score, timestamp):
     values = []
     # make reference distribution
     for i, ref in enumerate(reference_inputs):
-#        if i > 5:
-#            break
+        if testing and i > 5:
+            break
         values.append(audiometrics.get_pitch_variation(ref))
 
     create_image(user_score, values, min, max, filename, percentage = True)
@@ -158,8 +164,8 @@ def make_avg_wpm_plot(user_score, timestamp):
     values = []
     # make reference distribution
     for i, ref in enumerate(reference_inputs):
-#        if i > 5:
-#            break
+        if testing and i > 5:
+            break
         values.append(textmetrics.get_avg_wpm(ref))
 
     create_image(user_score, values, min, max, filename)
@@ -178,8 +184,8 @@ def make_wpm_variation_plot(user_score, timestamp):
     values = []
     # make reference distribution
     for i, ref in enumerate(reference_inputs):
-#        if i > 5:
-#            break
+        if testing and i > 5:
+            break
         values.append(textmetrics.get_wpm_variation(ref))
 
     create_image(user_score, values, min, max, filename, percentage = True)
@@ -199,8 +205,8 @@ def make_filler_word_rate_plot(user_score, timestamp):
     values = []
     # make reference distribution
     for i in range(len(reference_srts)):
-#        if i > 5:
-#            break
+        if testing and i > 5:
+            break
         values.append(textmetrics.get_filler_word_rate(reference_srts[i],reference_txts[i]))
 
     create_image(user_score, values, min, max, filename, round = False)
@@ -220,8 +226,8 @@ def make_repeated_word_rate_plot(user_score, timestamp):
     values = []
     # make reference distribution
     for i in range(len(reference_srts)):
-#        if i > 5:
-#            break
+        if testing and i > 5:
+            break
         values.append(textmetrics.get_repeated_word_rate(reference_srts[i],reference_txts[i]))
 
     create_image(user_score, values, min, max, filename, round = False, zero_is_good = True)

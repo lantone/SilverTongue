@@ -1,0 +1,14 @@
+body {
+  background: #B3B3B3 !important;
+  padding-top: 50px;
+}
+.navbar .navbar-brand {
+  padding-top: 5px;
+}
+.navbar .navbar-brand img {
+  width: 200px;
+}
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
