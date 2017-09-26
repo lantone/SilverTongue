@@ -2,12 +2,14 @@ import glob
 import json
 import colour
 import numpy as np
+import os
+
 import matplotlib.pyplot as plt
 from matplotlib.patches import Ellipse
 import matplotlib.ticker as mtick
+
 import audiometrics
 import textmetrics
-
 
 fig_size = plt.rcParams["figure.figsize"]
 fig_size[0] = 16
@@ -16,9 +18,8 @@ plt.rcParams["figure.figsize"] = fig_size
 plt.subplots_adjust(left=0,right=1, top=0.8, bottom=0.1)
 plt.rcParams.update({'font.size': 21})
 
-
-ref_data_dir = '/Users/lantonel/SilverTongue/training_dataset/'
-base_path = '/Users/lantonel/SilverTongue/'
+base_path =  os.environ['BASE_PATH']
+ref_data_dir = base_path + 'training_dataset/'
 
 # set up color scheme
 red = colour.Color("#B0413E")

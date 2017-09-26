@@ -12,6 +12,7 @@ import audiometrics
 import textmetrics
 import visualizations
 
+
 # set to something small for short testing
 #max_calls = 1
 max_calls = 999
@@ -21,9 +22,9 @@ parser.add_argument("url")
 parser.add_argument("timestamp")
 args = parser.parse_args()
 
-
 # set up output directory
-base_path = '/Users/lantonel/SilverTongue/'
+base_path =  os.environ['BASE_PATH']
+
 output_dir = base_path + '/app/static/' + args.timestamp + '/'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
