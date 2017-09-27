@@ -12,11 +12,13 @@ import audiometrics
 import textmetrics
 
 fig_size = plt.rcParams["figure.figsize"]
-fig_size[0] = 30
+fig_size[0] = 20
+#fig_size[0] = 30
 fig_size[1] = 0.8
 plt.rcParams["figure.figsize"] = fig_size
 plt.subplots_adjust(left=0,right=1, top=0.8, bottom=0.1)
-plt.rcParams.update({'font.size': 30})
+plt.rcParams.update({'font.size': 25})
+#plt.rcParams.update({'font.size': 20})
 
 base_path =  os.environ['BASE_PATH']
 ref_data_dir = base_path + 'training_dataset/'
@@ -90,8 +92,8 @@ def create_image(user_score, values, min, max, filename, percentage = False, rou
     ax.add_patch(el)
     ann = ax.annotate(display_score,
                       xy=(placement, 1), xycoords='data',
-                      xytext=(-33, 0), textcoords='offset points',
-                      size=35, va="center",ha="left",
+                      xytext=(-40, 0), textcoords='offset points',
+                      size=45, va="center",ha="left",
                       bbox=dict(boxstyle="round", fc=display_color, ec="k"),
                       arrowprops=dict(arrowstyle="wedge,tail_width=1.",
                                       fc=display_color, ec="k",
@@ -106,7 +108,8 @@ def create_image(user_score, values, min, max, filename, percentage = False, rou
         ax.xaxis.set_major_formatter(xticks)
 
     extent = ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted())
-    plt.savefig(filename, transparent=True,bbox_inches=extent.expanded(1.05, 2.5),dpi=800)
+    plt.savefig(filename, transparent=True,bbox_inches=extent.expanded(1.1, 2.5),dpi=800)
+#    plt.savefig(filename, transparent=True,bbox_inches=extent.expanded(1.2, 2.5),dpi=800)
 
     plt.clf()
 
