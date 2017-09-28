@@ -41,12 +41,14 @@ subtitles = subtitleprocessing.srt_to_sub(srt_file)
 txt_file = subtitleprocessing.sub_to_txt(srt_file, subtitles)
 
 # split up subtitles and audio for submitting to speechace
+#indices_to_split = subtitleprocessing.get_splitting_indices(subtitles, target_length = 10)
 indices_to_split = subtitleprocessing.get_splitting_indices(subtitles, target_length = 30)
 subs_for_speechace = subtitleprocessing.get_speechace_sub_list(subtitles, indices_to_split)
 audio_for_speechace = audioprocessing.get_speechace_audio_list(m4a_file, 
                                                                subtitles, 
                                                                indices_to_split, 
                                                                output_dir)
+
 # call speechace API
 word_list, bad_chunks, unknown_word_list = speechace.activate_speechace(subs_for_speechace, 
                                                                         audio_for_speechace, 
@@ -58,24 +60,21 @@ json_file = filename_base+'.json'
 with open(json_file, mode='w') as outputFile:
     json.dump(word_list, outputFile, indent=4)
 
+audioprocessing.remove_speechace_audio(audio_for_speechace)
 
 # extract metrics from speechace results
 avg_word_score = audiometrics.get_avg_word_score(json_file)
-visualizations.make_avg_word_score_plot(avg_word_score, args.timestamp)
-
 pitch_variation = audiometrics.get_pitch_variation(json_file)
-visualizations.make_pitch_variation_plot(pitch_variation, args.timestamp)
-
 
 # extract metrics from subtitles and plain text
 avg_wpm = textmetrics.get_avg_wpm(srt_file)
-visualizations.make_avg_wpm_plot(avg_wpm, args.timestamp)
-
 wpm_variation = textmetrics.get_wpm_variation(srt_file)
-visualizations.make_wpm_variation_plot(wpm_variation, args.timestamp)
-
 filler_word_rate = textmetrics.get_filler_word_rate(srt_file, txt_file)
-visualizations.make_filler_word_rate_plot(filler_word_rate, args.timestamp)
-
 repeated_word_rate = textmetrics.get_repeated_word_rate(srt_file, txt_file)
-visualizations.make_repeated_word_rate_plot(repeated_word_rate, args.timestamp)
+
+visualizations.create_image(avg_word_score, 'avg_wpm', args.timestamp)
+visualizations.create_image(wpm_variation, 'wpm_variation', args.timestamp, percentage = True)
+visualizations.create_image(pitch_variation, 'pitch_variation', args.timestamp, percentage = True)
+visualizations.create_image(avg_word_score, 'average_word_score', args.timestamp, percentage = True)
+visualizations.create_image(filler_word_rate, 'filler_word_rate', args.timestamp, round = False)
+visualizations.create_image(repeated_word_rate, 'repeated_word_rate', args.timestamp, round = False, zero_is_good = True)

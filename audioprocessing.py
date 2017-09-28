@@ -1,4 +1,6 @@
+import os
 from pydub import AudioSegment
+
 
 def get_speechace_audio_list(audio_file, subtitles, indices_to_split, output_dir):
 
@@ -19,7 +21,11 @@ def get_speechace_audio_list(audio_file, subtitles, indices_to_split, output_dir
 
         index += 1
         start_chunk = i
-
+    os.remove(audio_file)
     return audio_for_speechace
 
+def remove_speechace_audio(audio_for_speechace):
+    
+    for file in audio_for_speechace:
+        os.remove(file)
 

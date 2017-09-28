@@ -3,6 +3,7 @@ import json
 import colour
 import numpy as np
 import os
+import pickle
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import Ellipse
@@ -42,23 +43,16 @@ testing = False
 
 ###########################################################################################################
 
-def create_image(user_score, values, min, max, filename, percentage = False, round = True, zero_is_good = False):
+def create_image(user_score, filename, timestamp, percentage = False, round = True, zero_is_good = False):
+    output_filename = base_path + '/app/static/' + timestamp + '/'+ filename +'.png'
+    ref_filename = base_path + '/app/static/references/'+ filename
 
-    fig = plt.figure()
+    fig = pickle.load(file(ref_filename+'.pickle'))
+    bin_edges = pickle.load(file(ref_filename+'_bin_edges.pickle'))
 
-    bin_edges = [np.percentile(values, i) for i in bin_percentiles]
-    widths = [bin_edges[0]]
-    for i in range(1,len(bin_edges)):
-        widths.append(bin_edges[i]-bin_edges[i-1])
-    widths.append(max-bin_edges[-1])
-    weights = [[width] for width in widths]
-    data = [[1] for width in widths]
-
-    plt.hist(data, weights = weights, bins=1, color = colors, orientation="horizontal", stacked=True)
     ax = plt.gca()
-    ax.set_xlim(min,max)
-    ax.set_ylim(0.8,1.2)
-    ax.get_yaxis().set_visible(False)
+    min,max = ax.get_xlim()
+    
 
     #handle under/overflow
     if user_score < min + 0.025*(max-min):
@@ -108,7 +102,7 @@ def create_image(user_score, values, min, max, filename, percentage = False, rou
         ax.xaxis.set_major_formatter(xticks)
 
     extent = ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted())
-    plt.savefig(filename, transparent=True,bbox_inches=extent.expanded(1.1, 2.5),dpi=800)
+    plt.savefig(output_filename, transparent=True,bbox_inches=extent.expanded(1.1, 2.5),dpi=800)
 #    plt.savefig(filename, transparent=True,bbox_inches=extent.expanded(1.2, 2.5),dpi=800)
 
     plt.clf()
@@ -116,124 +110,35 @@ def create_image(user_score, values, min, max, filename, percentage = False, rou
 
 ###########################################################################################################
 
-def make_avg_word_score_plot(user_score, timestamp):
-    filename = base_path + '/app/static/' + timestamp + '/average_word_score.png'
+def make_ref(values, min, max, filename, percentage = False):
+    print "making reference",filename
 
-    reference_inputs = [file for file in glob.glob(ref_data_dir + '*.json') if '_unknown_words' not in file]
+    fig = plt.figure()
 
-    min = 70
-    max = 100
+    bin_edges = [np.percentile(values, i) for i in bin_percentiles]
+    widths = [bin_edges[0]]
+    for i in range(1,len(bin_edges)):
+        widths.append(bin_edges[i]-bin_edges[i-1])
+    widths.append(max-bin_edges[-1])
+    weights = [[width] for width in widths]
+    data = [[1] for width in widths]
 
-    values = []
-    # make reference distribution
-    for i, ref in enumerate(reference_inputs):
-        if testing and i > 5:
-            break
-        values.append(audiometrics.get_avg_word_score(ref))
+    print "plotting"
+    plt.hist(data, weights = weights, bins=1, color = colors, orientation="horizontal", stacked=True)
+    ax = plt.gca()
+    ax.set_xlim(min,max)
+    ax.set_ylim(0.8,1.2)
+    ax.get_yaxis().set_visible(False)
 
-    create_image(user_score, values, min, max, filename, percentage = True)
+    ax.tick_params(axis='x', which='major', pad=12)
+    if percentage:
+        fmt = '%.0f%%' # Format you want the ticks, e.g. '40%'
+        xticks = mtick.FormatStrFormatter(fmt)
+        ax.xaxis.set_major_formatter(xticks)
 
+    extent = ax.get_window_extent().transformed(fig.dpi_scale_trans.inverted())
+    print "saving files"
+    plt.savefig(filename+'.png', transparent=True,bbox_inches=extent.expanded(1.1, 2.5),dpi=800)
 
-###########################################################################################################
-
-def make_pitch_variation_plot(user_score, timestamp):
-    filename = base_path + '/app/static/' + timestamp + '/pitch_variation.png'
-
-    reference_inputs = [file for file in glob.glob(ref_data_dir + '*.json') if '_unknown_words' not in file]
-
-    min = 0
-    max = 50
-
-    values = []
-    # make reference distribution
-    for i, ref in enumerate(reference_inputs):
-        if testing and i > 5:
-            break
-        values.append(audiometrics.get_pitch_variation(ref))
-
-    create_image(user_score, values, min, max, filename, percentage = True)
-
-
-###########################################################################################################
-
-def make_avg_wpm_plot(user_score, timestamp):
-    filename = base_path + '/app/static/' + timestamp + '/avg_wpm.png'
-
-    reference_inputs = [file for file in glob.glob(ref_data_dir + '*.srt')]
-
-    min = 75
-    max = 225
-
-    values = []
-    # make reference distribution
-    for i, ref in enumerate(reference_inputs):
-        if testing and i > 5:
-            break
-        values.append(textmetrics.get_avg_wpm(ref))
-
-    create_image(user_score, values, min, max, filename)
-
-
-###########################################################################################################
-
-def make_wpm_variation_plot(user_score, timestamp):
-    filename = base_path + '/app/static/' + timestamp + '/wpm_variation.png'
-
-    reference_inputs = [file for file in glob.glob(ref_data_dir + '*.srt')]
-
-    min = 0
-    max = 50
-
-    values = []
-    # make reference distribution
-    for i, ref in enumerate(reference_inputs):
-        if testing and i > 5:
-            break
-        values.append(textmetrics.get_wpm_variation(ref))
-
-    create_image(user_score, values, min, max, filename, percentage = True)
-
-
-###########################################################################################################
-
-def make_filler_word_rate_plot(user_score, timestamp):
-    filename = base_path + '/app/static/' + timestamp + '/filler_word_rate.png'
-
-    reference_srts = [file for file in glob.glob(ref_data_dir + '*.srt')]
-    reference_txts = [file for file in glob.glob(ref_data_dir + '*.txt')]
-
-    min = 0
-    max = 5
-
-    values = []
-    # make reference distribution
-    for i in range(len(reference_srts)):
-        if testing and i > 5:
-            break
-        values.append(textmetrics.get_filler_word_rate(reference_srts[i],reference_txts[i]))
-
-    create_image(user_score, values, min, max, filename, round = False)
-
-
-###########################################################################################################
-
-def make_repeated_word_rate_plot(user_score, timestamp):
-    filename = base_path + '/app/static/' + timestamp + '/repeated_word_rate.png'
-
-    reference_srts = [file for file in glob.glob(ref_data_dir + '*.srt')]
-    reference_txts = [file for file in glob.glob(ref_data_dir + '*.txt')]
-
-    min = 0
-    max = 2
-
-    values = []
-    # make reference distribution
-    for i in range(len(reference_srts)):
-        if testing and i > 5:
-            break
-        values.append(textmetrics.get_repeated_word_rate(reference_srts[i],reference_txts[i]))
-
-    create_image(user_score, values, min, max, filename, round = False, zero_is_good = True)
-
-
-###########################################################################################################
+    pickle.dump(fig, file(filename+'.pickle', 'w'))
+    pickle.dump(bin_edges, file(filename+'_bin_edges.pickle', 'w'))

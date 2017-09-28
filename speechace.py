@@ -6,6 +6,7 @@ import datetime
 api_key =  os.environ['SPEECHACE_API_KEY']
 
 def query(input_audio_file, input_text):
+
     url = 'https://api.speechace.co/api/scoring/text/v0.1/json?key='+api_key+'&user_id=002'
     files = [
         ('user_audio_file', open(input_audio_file, 'rb')),
@@ -131,7 +132,10 @@ def activate_speechace(subs_for_speechace, audio_for_speechace, max_calls = 999,
                 new_text = chunk[1]
                 for unknown_word in unknown_words:
                     unknown_word_list.append(unknown_word.strip())
-                    new_text = new_text.replace(unknown_word,'')
+                    if unknown_word.strip() == 'gon':
+                        new_text = new_text.replace('gonna','')
+                    else:
+                        new_text = new_text.replace(unknown_word,'')
                     
                 speechace_data = query(chunk[0],new_text)
                 if 'status' not in speechace_data:
@@ -144,6 +148,7 @@ def activate_speechace(subs_for_speechace, audio_for_speechace, max_calls = 999,
                 else:
                     if verbose:
                         print speechace_data['short_message']
+                        print speechace_data['detail_message']
                         print "NO GO #3"
                     bad_chunks.append(i)
             else:
